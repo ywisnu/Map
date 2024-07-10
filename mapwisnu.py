@@ -1,47 +1,39 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="streamlit-folium documentation",
-    page_icon=":world_map:️",
+    page_title="streamlit-folium documentation: Draw Support",
+    page_icon=":pencil:",
     layout="wide",
 )
 
 """
-left, right = st.columns(2)
+# streamlit-folium: Draw Support
 
+Folium supports some of the [most popular leaflet
+plugins](https://python-visualization.github.io/folium/plugins.html). In this example,
+we can add the
+[`Draw`](https://python-visualization.github.io/folium/plugins.html#folium.plugins.Draw)
+plugin to our map, which allows for drawing geometric shapes on the map.
 
-with left:
-    """
-    If we take a look at the example from the Home page, it might seem trivial. We
-    define a single point with a marker and pop-up and display it:
-    """
-    with st.echo():
-        import folium
-        import streamlit as st
+When a shape is drawn on the map, the coordinates that represent that shape are passed
+back as a geojson feature via the `all_drawings` and `last_active_drawing` data fields.
 
-        from streamlit_folium import st_folium
+Draw something below to see the return value back to Streamlit!
+"""
 
-        # center on Liberty Bell, add marker
-        m = folium.Map(location=[39.949610, -75.150282], zoom_start=16)
-        folium.Marker(
-            [39.949610, -75.150282], popup="Liberty Bell", tooltip="Liberty Bell"
-        ).add_to(m)
+with st.echo(code_location="below"):
+    import folium
+    import streamlit as st
+    from folium.plugins import Draw
 
-        # call to render Folium map in Streamlit
-        st_data = st_folium(m, width=725)
+    from streamlit_folium import st_folium
 
-with right:
-    """
-    But behind the scenes, a lot more is happening _by default_. The return value of
-    `st_folium` is set to `st_data`, and within this Python variable is information
-    about what is being displayed on the screen:
-    """
+    m = folium.Map(location=[39.949610, -75.150282], zoom_start=5)
+    Draw(export=True).add_to(m)
 
-    st_data
+    c1, c2 = st.columns(2)
+    with c1:
+        output = st_folium(m, width=700, height=500)
 
-    """
-    As the user interacts with the data visualization, the values for `bounds` are
-    constantly updating, along with `zoom`. With these values available in Python, we
-    can now limit queries based on bounding box, change the marker size based on the
-    `zoom` value and much more!
-    """
+    with c2:
+        st.write(output)
