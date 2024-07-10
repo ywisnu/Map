@@ -6,6 +6,7 @@ st.set_page_config(
     layout="wide",
 )
 
+"# streamlit-folium"
 
 with st.echo(code_location="below"):
     import folium
