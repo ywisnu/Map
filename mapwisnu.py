@@ -15,7 +15,7 @@ with st.echo(code_location="below"):
 
     from streamlit_folium import st_folium
 
-    m = folium.Map(location=[39.949610, -75.150282], zoom_start=5)
+    m = folium.Map(location=[106.816281,-6.211156], zoom_start=5)
     Draw(export=True).add_to(m)
 
     c1, c2 = st.columns(2)
