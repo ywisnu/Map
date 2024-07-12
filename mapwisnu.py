@@ -15,7 +15,7 @@ with st.echo(code_location="below"):
 
     from streamlit_folium import st_folium
 
-    m = folium.Map(location=[-6.211156, 106.816281], zoom_start=14,tiles="Stamen Toner")
+    m = folium.Map(location=[-6.211156, 106.816281], zoom_start=14,tiles="Cartodb Positron")
     Draw(export=True).add_to(m)
 
     c1, c2 = st.columns(2)
