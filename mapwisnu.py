@@ -23,4 +23,5 @@ with st.echo(code_location="below"):
         output = st_folium(m, width=900, height=500)
 
     with c2:
+        output = ()
         
