@@ -23,4 +23,4 @@ with st.echo(code_location="below"):
         output = st_folium(m, width=700, height=500)
 
     with c2:
-        st.write(#FIBER OPTIC PROJECT#)
+        st.write()
