@@ -20,7 +20,7 @@ with st.echo(code_location="below"):
 
     c1, c2 = st.columns(2)
     with c1:
-        output = st_folium(m, width=700, height=900)
+        output = st_folium(m, width=900, height=500)
 
     with c2:
         st.write()
