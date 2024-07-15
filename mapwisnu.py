@@ -44,7 +44,8 @@ with col2:
     DATA_URL = "https://raw.githubusercontent.com/ywisnu/portfolio/main/views/project1.csv"
     @st.cache_data
     def get_and_prepare_data(data):
-    df = pd.read_csv(data)
+    df = get_and_prepare_data(data=DATA_URL)
+    st.write(df)
     
     
 
