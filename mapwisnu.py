@@ -43,9 +43,15 @@ with col2:
     "## Table FO Project"
     DATA_URL = "https://raw.githubusercontent.com/ywisnu/portfolio/main/views/project1.csv"
     @st.cache_data
-    def get_and_prepare_data(data):
-    df = get_and_prepare_data(data=DATA_URL)
-    st.write(df)
+    def prepare_data():
+    df = prepare_data(data=DATA_URL)
+    return df
+    df = prepare_data()
+    st.dataframe(data=df)
+    
+    
+
+
     
     
 
