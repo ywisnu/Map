@@ -17,6 +17,9 @@ with st.echo(code_location="below"):
 
     m = folium.Map(location=[-6.211156, 106.816281], zoom_start=14,tiles="Cartodb Positron")
     Draw(export=True).add_to(m)
+    
+    url = "https://raw.githubusercontent.com/ywisnu/Map/main/Data/merged.json"
+    folium.GeoJson(url).add_to(m)
 
     c1, c2 = st.columns(2)
     with c1:
@@ -25,4 +28,5 @@ with st.echo(code_location="below"):
     with c2:
         output = ()
         "# Fiber Optic Project"
+        
         
