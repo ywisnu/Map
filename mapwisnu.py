@@ -1,4 +1,8 @@
+import folium
 import streamlit as st
+from folium.plugins import GroupedLayerControl
+from folium.plugins import Draw
+from streamlit_folium import st_folium
 
 st.set_page_config(
     page_title="Fiber Optic Project",
@@ -6,15 +10,7 @@ st.set_page_config(
     layout="wide",
 )
 
-"# Fiber Optic Project"
-
-with st.echo(code_location="below"):
-    import folium
-    import streamlit as st
-    from folium.plugins import Draw
-
-    from streamlit_folium import st_folium
-
+"# Fiber Optic Project
     m = folium.Map(location=[-6.211156,106.816281], zoom_start=13,tiles="Cartodb Positron")
     Draw(export=True).add_to(m)
     
@@ -31,12 +27,6 @@ with st.echo(code_location="below"):
     popup=folium.Popup("HUT Mampang JAW-JK-KYB-1692", parse_html=True, max_width=100),
     ).add_to(m)
 
-    c1, c2 = st.columns(2)
-    with c1:
-        output = st_folium(m, width=900, height=500)
+st_folium(m)
 
-    with c2:
-        output = ()
-        "# Fiber Optic Project"
-        
         
