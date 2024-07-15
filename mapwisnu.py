@@ -5,15 +5,15 @@ from folium.plugins import GroupedLayerControl
 from streamlit_folium import st_folium
 
 st.set_page_config(
-    page_title="streamlit-folium documentation: Grouped Layer Control",
-    page_icon=":pencil:",
+    page_title="Fiber Optic Project By Wisnu",
+    page_icon=":earth_asia:",
     layout="wide",
 )
 
-st.title("streamlit-folium: Grouped Layer Control")
 
+st.title("Fiber Optic Project")
 
-m = folium.Map([40.0, 70.0], zoom_start=6)
+m = folium.Map(location=[-6.211156,106.816281], zoom_start=13,tiles="Cartodb Positron")
 
 fg1 = folium.FeatureGroup(name="g1")
 fg2 = folium.FeatureGroup(name="g2")
@@ -31,5 +31,7 @@ GroupedLayerControl(
     groups={"groups1": [fg1, fg2]},
     collapsed=False,
 ).add_to(m)
+
+
 
 st_folium(m)
