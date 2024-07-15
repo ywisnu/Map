@@ -23,7 +23,7 @@ with st.echo(code_location="below"):
 
     folium.Marker(
     location=[ 106.7775056,-6.230830556],
-    popup=folium.Popup("PAG KEBAYORAN LAMA JAW-JK-KYB-1231 ", parse_html=True, max_width=100),
+    popup=folium.Popup("PAG KEBAYORAN LAMA JAW-JK-KYB-1231 ", parse_html=True, max_width="100"),
     ).add_to(m)
 
     folium.Marker(
