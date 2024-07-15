@@ -34,10 +34,10 @@ GroupedLayerControl(
     collapsed=False,
 ).add_to(m)
 
-c1, c2 = st.columns(2)
-    with c1:
-        output = st_folium(m, width=900, height=500)
+col1, col2 = st.columns(2)
+with col1:
+    st.markdown("## Pixelated off")
+    st_folium(m, use_container_width=True, pixelated=False, key="pixelated_off")
+with col2:
+    st.markdown("## Pixelated on")
 
-    with c2:
-        output = ()
-        "# Fiber Optic Project"
