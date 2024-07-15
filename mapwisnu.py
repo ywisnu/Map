@@ -42,13 +42,10 @@ with col1:
     st_folium(m,use_container_width=True, width=900, height=500)
 with col2:
     "## Table FO Project"
-    DATA_URL = "https://raw.githubusercontent.com/ywisnu/portfolio/main/views/project1.csv"
+    Datset= pd.read_csv("https://raw.githubusercontent.com/ywisnu/portfolio/main/views/project1.csv")
+    st.table=(Datset)
     
-    @st.cache_data
-    def prepare_data(data):
-        df= pd.read_csv(data)
-    df = prepare_data(data=DATA_URL)
-    st.dataframe(data=df)
+    
 
     
 
