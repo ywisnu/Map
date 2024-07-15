@@ -8,7 +8,7 @@ st.set_page_config(
 
 "# Fiber Optic Project"
 
-with st.echo(code_location="below"):
+with 
     import folium
     import streamlit as st
     from folium.plugins import Draw
