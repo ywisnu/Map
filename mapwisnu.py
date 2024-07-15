@@ -7,7 +7,12 @@ st.set_page_config(
 )
 
 "# Fiber Optic Project"
-    
+
+with st.echo(code_location="below"):
+    import folium
+    import streamlit as st
+    from folium.plugins import Draw
+
     from streamlit_folium import st_folium
 
     m = folium.Map(location=[-6.211156,106.816281], zoom_start=13,tiles="Cartodb Positron")
