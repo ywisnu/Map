@@ -34,6 +34,10 @@ GroupedLayerControl(
     collapsed=False,
 ).add_to(m)
 
+c1, c2 = st.columns(2)
+    with c1:
+        output = st_folium(m, width=900, height=500)
 
-
-st_folium(m)
+    with c2:
+        output = ()
+        "# Fiber Optic Project"
