@@ -46,7 +46,6 @@ with col2:
     def prepare_data(data):
         df= pd.read_csv(data)
     df = prepare_data(data=DATA_URL)
-    return df
     st.dataframe(data=df)
     
     
