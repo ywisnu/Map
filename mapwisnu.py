@@ -28,7 +28,7 @@ with st.echo(code_location="below"):
 
     folium.Marker(
     location=[-6.244827778,106.8261472],
-    popup=folium.Popup("HUT Mampang", parse_html=True, max_width=100),
+    popup=folium.Popup("HUT Mampang JAW-JK-KYB-1692", parse_html=True, max_width=100),
     ).add_to(m)
 
     c1, c2 = st.columns(2)
