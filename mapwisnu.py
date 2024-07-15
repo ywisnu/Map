@@ -1,6 +1,7 @@
 import folium
 import streamlit as st
 import pandas as pd 
+import requests
 from folium.plugins import GroupedLayerControl
 
 from streamlit_folium import st_folium
@@ -42,7 +43,7 @@ with col1:
 with col2:
     "## Table FO Project"
     DATA_URL = "https://raw.githubusercontent.com/ywisnu/portfolio/main/views/project1.csv"
-
+    
     @st.cache_data
     def prepare_data(data):
         df= pd.read_csv(data)
