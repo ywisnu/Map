@@ -10,7 +10,6 @@ st.set_page_config(
     layout="wide",
 )
 
-"# Fiber Optic Project
     m = folium.Map(location=[-6.211156,106.816281], zoom_start=13,tiles="Cartodb Positron")
     Draw(export=True).add_to(m)
     
