@@ -8,7 +8,6 @@ st.set_page_config(
 
 "# Fiber Optic Project"
 
-with st.echo(code_location="below"):
     import folium
     import streamlit as st
     from folium.plugins import Draw
@@ -16,7 +15,7 @@ with st.echo(code_location="below"):
     from streamlit_folium import st_folium
 
     m = folium.Map(location=[-6.211156,106.816281], zoom_start=13,tiles="Cartodb Positron")
-    Draw(export=True).add_to(m)
+    Draw(export=False).add_to(m)
     
     url = "https://raw.githubusercontent.com/ywisnu/Map/main/Data/merged.json"
     folium.GeoJson(url).add_to(m)
@@ -33,7 +32,7 @@ with st.echo(code_location="below"):
 
     c1, c2 = st.columns(2)
     with c1:
-        output = m
+    output = st_folium(m, width=900, height=500)
         
     with c2:
         output = ()
