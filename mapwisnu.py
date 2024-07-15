@@ -15,7 +15,7 @@ with st.echo(code_location="below"):
 
     from streamlit_folium import st_folium
 
-    m = folium.Map(location=[-6.211156,106.816281], zoom_start=14,tiles="Cartodb Positron")
+    m = folium.Map(location=[-6.211156,106.816281], zoom_start=11,tiles="Cartodb Positron")
     Draw(export=True).add_to(m)
     
     url = "https://raw.githubusercontent.com/ywisnu/Map/main/Data/merged.json"
