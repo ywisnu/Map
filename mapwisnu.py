@@ -43,7 +43,7 @@ with col1:
 with col2:
     "## Table FO Project"
     df= pd.read_csv("https://raw.githubusercontent.com/ywisnu/portfolio/main/views/project1.csv")
-    st.dataframe(df, height=500)
+    st.dataframe(df, height=300)
     
     
 
