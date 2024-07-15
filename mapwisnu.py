@@ -39,5 +39,5 @@ with col1:
     st.markdown("## XL Project")
     st_folium(m, use_container_width=True, pixelated=False, key="pixelated_off")
 with col2:
-    "# Fiber Optic Project"
+    "## Table FO Project"
 
