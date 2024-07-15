@@ -8,7 +8,6 @@ st.set_page_config(
 
 "# Fiber Optic Project"
 
-with 
     import folium
     import streamlit as st
     from folium.plugins import Draw
@@ -32,10 +31,10 @@ with
     ).add_to(m)
 
     c1, c2 = st.columns(2)
-    with c1:
+    c1:
         output = st_folium(m, width=900, height=500)
 
-    with c2:
+    c2:
         output = ()
         "# Fiber Optic Project"
         
