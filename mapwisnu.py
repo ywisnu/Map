@@ -45,9 +45,11 @@ with col2:
     DATA_URL = "https://raw.githubusercontent.com/ywisnu/portfolio/main/views/project1.csv"
     
     @st.cache_data
-    c = pd.read_csv("https://raw.githubusercontent.com/ywisnu/portfolio/main/views/project1.csv")
+    df= pd.read_csv("https://raw.githubusercontent.com/ywisnu/portfolio/main/views/project1.csv")
+    st.dataframe(f)
 
-    print(c)
+    
+
     
     
     
