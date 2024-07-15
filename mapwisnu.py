@@ -42,8 +42,8 @@ with col1:
     st_folium(m,use_container_width=True, width=900, height=500)
 with col2:
     "## Table FO Project"
-    Datset= pd.read_csv("https://raw.githubusercontent.com/ywisnu/portfolio/main/views/project1.csv")
-    st.table=(Datset)
+    df= pd.read_csv("https://raw.githubusercontent.com/ywisnu/portfolio/main/views/project1.csv")
+    st.dataframe(df, height=750)
     
     
 
