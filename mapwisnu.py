@@ -22,12 +22,12 @@ with st.echo(code_location="below"):
     folium.GeoJson(url).add_to(m)
 
     folium.Marker(
-    location=[106.7775056,-6.230830556],
+    location=[-6.230830556,106.7775056],
     popup=folium.Popup("PAG KEBAYORAN LAMA JAW-JK-KYB-1231", parse_html=True, max_width=100),
     ).add_to(m)
 
     folium.Marker(
-    location=[106.8261472,-6.244827778],
+    location=[-6.244827778,106.8261472],
     popup=folium.Popup("HUT Mampang", parse_html=True, max_width=100),
     ).add_to(m)
 
