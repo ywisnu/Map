@@ -36,8 +36,8 @@ GroupedLayerControl(
 
 col1, col2 = st.columns(2)
 with col1:
-    st.markdown("## Pixelated off")
+    st.markdown("## XL Project")
     st_folium(m, use_container_width=True, pixelated=False, key="pixelated_off")
 with col2:
-    st.markdown("## Pixelated on")
+    st.markdown("## Table)
 
