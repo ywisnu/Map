@@ -30,13 +30,13 @@ m.add_child(G2)
 
 folium.LayerControl(collapsed=False).add_to(m)
 
-
+fg_dict = {"Parcels": G2}
 
 col1, col2 = st.columns(2)
 with col1:
     st.markdown("## XL Project")
     st_folium(m,use_container_width=True, returned_objects=[],
-    feature_group_to_add=fg_dict[fg],
+    feature_group_to_add=fg_dict[G2],
     debug=True,
     layer_control=layer_dict[layer],)
 with col2:
