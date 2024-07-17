@@ -20,6 +20,7 @@ url = "https://raw.githubusercontent.com/ywisnu/Map/main/Data/merged.json"
 url2 = "https://raw.githubusercontent.com/ywisnu/Map/main/Data/RouteR5.geojson"
 folium.GeoJson(url).add_to(m)
 
+
 fg1 = folium.FeatureGroup(name="g1")
 fg2 = folium.FeatureGroup(name="g2")
 fg3 = folium.FeatureGroup(name="g3")
@@ -30,7 +31,7 @@ m.add_child(fg1)
 m.add_child(fg2)
 m.add_child(fg3)
 
-fg1.add_child(folium.Geojeson(url2).add_to(m)
+fg1.add_child(folium.Geo.Json(url2).add_to(m))
 
 folium.LayerControl(collapsed=False).add_to(m))
 
