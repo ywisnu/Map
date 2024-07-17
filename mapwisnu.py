@@ -17,6 +17,7 @@ st.title("Fiber Optic Project")
 
 m = folium.Map(location=[-6.211156,106.816281], zoom_start=13,tiles="Cartodb Positron")
 url = "https://raw.githubusercontent.com/ywisnu/Map/main/Data/merged.json"
+url2 = "https://raw.githubusercontent.com/ywisnu/Map/main/Data/RouteR5.geojson"
 folium.GeoJson(url).add_to(m)
 
 fg1 = folium.FeatureGroup(name="g1")
@@ -28,6 +29,8 @@ folium.Marker([40, 72]).add_to(fg3)
 m.add_child(fg1)
 m.add_child(fg2)
 m.add_child(fg3)
+
+fg1.add_child(folium.Geojeson(url2).add_to(m)
 
 folium.LayerControl(collapsed=False).add_to(m)
 
