@@ -32,7 +32,7 @@ m.add_child(fg3)
 
 fg1.add_child(folium.Geojeson(url2).add_to(m)
 
-folium.LayerControl(collapsed=False).add_to(m)
+folium.LayerControl(collapsed=False).add_to(m))
 
 
 
