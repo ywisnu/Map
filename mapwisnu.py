@@ -25,13 +25,12 @@ fg1 = folium.FeatureGroup(name="g1")
 fg2 = folium.FeatureGroup(name="g2")
 fg3 = folium.FeatureGroup(name="g3")
 folium.Marker([40, 74]).add_to(fg1)
-folium.Marker([38, 72]).add_to(fg2)
+folium.GeoJson(url2).add_to(fg2)
 folium.Marker([40, 72]).add_to(fg3)
+
 m.add_child(fg1)
 m.add_child(fg2)
 m.add_child(fg3)
-
-g1.add_child(folium.GeoJson(url2).add_to(m))
 
 folium.LayerControl(collapsed=False).add_to(m)
 
