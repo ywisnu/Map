@@ -23,13 +23,10 @@ url = "https://raw.githubusercontent.com/ywisnu/Map/main/Data/merged.json"
 url2 = "https://raw.githubusercontent.com/ywisnu/Map/main/Data/RouteR5.geojson"
 folium.GeoJson(url).add_to(m)
 
-folium.Marker([40, 74]).add_to(fg1)
-folium.GeoJson(url2).add_to(fg2)
-folium.Marker([40, 72]).add_to(fg3)
 
-m.add_child(fg1)
+fg2 = folium.GeoJson(url2).add_to(fg2)
+
 m.add_child(fg2)
-m.add_child(fg3)
 
 folium.LayerControl(collapsed=False).add_to(m)
 
