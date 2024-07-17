@@ -24,9 +24,9 @@ url2 = "https://raw.githubusercontent.com/ywisnu/Map/main/Data/RouteR5.geojson"
 folium.GeoJson(url).add_to(m)
 
 
-fg2 = folium.GeoJson(url2).add_to(fg2)
+G2 = folium.GeoJson(url2).add_to(fg2)
 
-m.add_child(fg2)
+m.add_child(G2)
 
 folium.LayerControl(collapsed=False).add_to(m)
 
