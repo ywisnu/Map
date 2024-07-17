@@ -31,10 +31,7 @@ m.add_child(fg3)
 
 folium.LayerControl(collapsed=False).add_to(m)
 
-GroupedLayerControl(
-    groups={"groups1": [fg1, fg2]},
-    collapsed=False,
-).add_to(m)
+
 
 col1, col2 = st.columns(2)
 with col1:
