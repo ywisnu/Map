@@ -16,7 +16,7 @@ st.set_page_config(
     page_icon=":earth_asia:",
     layout="wide",
 )
-st.header('#Fiber Optic Project#')
+st.header('Fiber Optic Project')
 
 m= folium.Map(location=[-6.211156,106.816281], zoom_start=13,tiles="Cartodb Positron")
 url= "https://raw.githubusercontent.com/ywisnu/Map/main/Data/merged.json"
@@ -82,7 +82,7 @@ folium.Marker(
 
 col1, col2 = st.columns(2)
 with col1:
-    st.markdown("## XL Project")
+    st.markdown("## XL Project writen on Python")
     st_folium(m,use_container_width=True, width=900, height=500
     )
 with col2:
