@@ -21,15 +21,15 @@ st.header('Fiber Optic Project')
 tab1,tab2=st.tabs(['Map FO','Tabel FO'])
 
 with tab1: 
-m = folium.Map(location=[-6.211156,106.816281], zoom_start=13,tiles="Cartodb Positron")
-url = "https://raw.githubusercontent.com/ywisnu/Map/main/Data/merged.json"
-url2 = "https://raw.githubusercontent.com/ywisnu/Map/main/Data/RouteR5.geojson"
-folium.GeoJson(url).add_to(m)
+    m= folium.Map(location=[-6.211156,106.816281], zoom_start=13,tiles="Cartodb Positron")
+    url= "https://raw.githubusercontent.com/ywisnu/Map/main/Data/merged.json"
+    url2 = "https://raw.githubusercontent.com/ywisnu/Map/main/Data/RouteR5.geojson"
+    folium.GeoJson(url).add_to(m)
 
 
-G2 = folium.GeoJson(url2).add_to(m)
+    G2 = folium.GeoJson(url2).add_to(m)
 
-m.add_child(G2)
+    m.add_child(G2)
 
 folium.LayerControl(collapsed=False).add_to(m)
 
