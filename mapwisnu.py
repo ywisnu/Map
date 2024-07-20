@@ -18,7 +18,6 @@ st.set_page_config(
 )
 st.header('Fiber Optic Project')
 
-st.cache_data
 m= folium.Map(location=[-6.211156,106.816281], zoom_start=13,tiles="Cartodb Positron")
 url= "https://raw.githubusercontent.com/ywisnu/Map/main/Data/merged.json"
 url2= "https://raw.githubusercontent.com/ywisnu/Map/main/Data/RouteR5.geojson"
@@ -80,6 +79,8 @@ folium.Marker(
     location=[-6.250972222,106.8253611],
     popup=folium.Popup("Mampang Prapatan T1C1-T1C4", parse_html=True, max_width=100),
     ).add_to(m)
+
+st.cache_data
 
 col1, col2 = st.columns(2)
 with col1:
