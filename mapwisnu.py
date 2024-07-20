@@ -90,6 +90,9 @@ with col2:
     df= pd.read_csv("https://raw.githubusercontent.com/ywisnu/portfolio/main/views/project1.csv")
     st.dataframe(df, height=300)
 
+    df2= pd.read_csv("https://raw.githubusercontent.com/ywisnu/Map/main/Data/revenue.csv")
+    st.dataframe(df2, height=300)
+
 
        
   
