@@ -18,7 +18,7 @@ st.set_page_config(
 )
 st.header('Fiber Optic Project')
 
-
+st.cache_data
 m= folium.Map(location=[-6.211156,106.816281], zoom_start=13,tiles="Cartodb Positron")
 url= "https://raw.githubusercontent.com/ywisnu/Map/main/Data/merged.json"
 url2= "https://raw.githubusercontent.com/ywisnu/Map/main/Data/RouteR5.geojson"
@@ -29,8 +29,6 @@ G2 = folium.GeoJson(url2).add_to(m)
 m.add_child(G2)
 
 folium.LayerControl(collapsed=False).add_to(m)
-
-st.cache_data
 
 folium.Marker(location=[-6.230830556,106.7775056],
     popup=folium.Popup("PAG KEBAYORAN LAMA JAW-JK-KYB-1231 T1C1-T1C4", parse_html=True, max_width=100),
