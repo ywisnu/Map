@@ -14,11 +14,11 @@ st.set_page_config(
     page_icon=":earth_asia:",
     layout="wide",
 )
-st.title("Fiber Optic Project")
+st.header('Fiber Optic Project')
+
 tab1,tab2=st.tabs(['Map FO','Tabel FO'])
-with tab1: 
 
-
+tab1: 
 m = folium.Map(location=[-6.211156,106.816281], zoom_start=13,tiles="Cartodb Positron")
 url = "https://raw.githubusercontent.com/ywisnu/Map/main/Data/merged.json"
 url2 = "https://raw.githubusercontent.com/ywisnu/Map/main/Data/RouteR5.geojson"
@@ -43,7 +43,7 @@ with col2:
     df= pd.read_csv("https://raw.githubusercontent.com/ywisnu/portfolio/main/views/project1.csv")
     st.dataframe(df, height=300)
 
-with tab2:
+ tab2:
      "## Table FO Project"
     df= pd.read_csv("https://raw.githubusercontent.com/ywisnu/portfolio/main/views/project1.csv")
     st.dataframe(df, height=300)
