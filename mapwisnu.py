@@ -6,7 +6,6 @@ import requests
 from folium.plugins import GroupedLayerControl
 import folium.features
 import shapely
-import matplotlib.pyplot as plt
 from streamlit_folium import st_folium #Widget de Streamlit para mostrar los mapas
 from folium.plugins import MarkerCluster #Plugin para agrupar marcadores
 
