@@ -15,7 +15,8 @@ st.set_page_config(
     layout="wide",
 )
 
-
+tab1,tab2=st.tabs(['Map FO','Tabel FO'])
+with tab1: 
 st.title("Fiber Optic Project")
 
 m = folium.Map(location=[-6.211156,106.816281], zoom_start=13,tiles="Cartodb Positron")
@@ -41,8 +42,11 @@ with col2:
     "## Table FO Project"
     df= pd.read_csv("https://raw.githubusercontent.com/ywisnu/portfolio/main/views/project1.csv")
     st.dataframe(df, height=300)
-    
-    
+
+with tab2:
+     "## Table FO Project"
+    df= pd.read_csv("https://raw.githubusercontent.com/ywisnu/portfolio/main/views/project1.csv")
+    st.dataframe(df, height=300)
 
     
 
