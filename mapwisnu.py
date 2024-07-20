@@ -80,8 +80,6 @@ folium.Marker(
     popup=folium.Popup("Mampang Prapatan T1C1-T1C4", parse_html=True, max_width=100),
     ).add_to(m)
 
-st.cache_data
-
 col1, col2 = st.columns(2)
 with col1:
     st.markdown("## XL Project")
