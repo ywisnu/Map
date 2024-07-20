@@ -6,6 +6,7 @@ import requests
 from folium.plugins import GroupedLayerControl
 import folium.features
 import shapely
+import matplotlib.pyplot as plt
 from streamlit_folium import st_folium #Widget de Streamlit para mostrar los mapas
 from folium.plugins import MarkerCluster #Plugin para agrupar marcadores
 
@@ -92,6 +93,7 @@ with col2:
 
     df2= pd.read_csv("https://raw.githubusercontent.com/ywisnu/Map/main/Data/revenue2.csv")
     st.dataframe(df2, height=300)
+    st.plt(df2)
 
 
        
