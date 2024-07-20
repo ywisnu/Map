@@ -31,14 +31,54 @@ m.add_child(G2)
 folium.LayerControl(collapsed=False).add_to(m)
 
 folium.Marker(location=[-6.230830556,106.7775056],
-    popup=folium.Popup("PAG KEBAYORAN LAMA JAW-JK-KYB-1231    T1C1-T1C4", parse_html=True, max_width=100),
+    popup=folium.Popup("PAG KEBAYORAN LAMA JAW-JK-KYB-1231 T1C1-T1C4", parse_html=True, max_width=100),
     icon=folium.Icon(color="red"),
     ).add_to(m)
 
 folium.Marker(
     location=[-6.244827778,106.8261472],
-    popup=folium.Popup("PAG Mampang JAW-JK-KYB-1692   T1C1-T1C4", parse_html=True, max_width=100),
+    popup=folium.Popup("PAG Mampang JAW-JK-KYB-1692 T1C1-T1C4", parse_html=True, max_width=100),
     icon=folium.Icon(color="red"),
+    ).add_to(m)
+
+folium.Marker(
+    location=[-6.253739,106.807],
+    popup=folium.Popup("BRAWIJAYA IV PULO T1C1-T1C4", parse_html=True, max_width=100),
+    ).add_to(m)
+
+folium.Marker(
+    location=[-6.253055556,106.8048056],
+    popup=folium.Popup("3G_DHARMAWGS", parse_html=True, max_width=100),
+    ).add_to(m)
+
+folium.Marker(
+    location=[-6.252492,106.804353],
+    popup=folium.Popup("RESIDENCEATDHRMAWANSA", parse_html=True, max_width=100),
+    ).add_to(m)
+
+folium.Marker(
+    location=[-6.249780556,106.808],
+    popup=folium.Popup("KEMANG PRAPANCA", parse_html=True, max_width=100),
+    ).add_to(m)
+
+folium.Marker(
+    location=[-6.26246557814017,106.812135134260998],
+    popup=folium.Popup("KEMANG VILLAGE2", parse_html=True, max_width=100),
+    ).add_to(m)
+
+folium.Marker(
+    location=[-6.262661111,106.8151306],
+    popup=folium.Popup("Kemang6", parse_html=True, max_width=100),
+    ).add_to(m)
+
+folium.Marker(
+    location=[-6.253169,106.820561],
+    popup=folium.Popup("BANGKA 9", parse_html=True, max_width=100),
+    ).add_to(m)
+
+folium.Marker(
+    location=[-6.250972222,106.8253611],
+    popup=folium.Popup("Mampang Prapatan", parse_html=True, max_width=100),
     ).add_to(m)
 
 col1, col2 = st.columns(2)
