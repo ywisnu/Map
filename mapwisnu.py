@@ -93,7 +93,7 @@ with col2:
 
     df2= pd.read_csv("https://raw.githubusercontent.com/ywisnu/Map/main/Data/revenue2.csv")
     st.dataframe(df2, height=300)
-    st.plt(df2)
+
 
 
        
