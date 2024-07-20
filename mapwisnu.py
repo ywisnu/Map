@@ -6,6 +6,8 @@ import requests
 from folium.plugins import GroupedLayerControl
 import folium.features
 import shapely
+from streamlit_folium import st_folium #Widget de Streamlit para mostrar los mapas
+from folium.plugins import MarkerCluster #Plugin para agrupar marcadores
 
 from streamlit_folium import st_folium
 
@@ -18,7 +20,7 @@ st.header('Fiber Optic Project')
 
 tab1,tab2=st.tabs(['Map FO','Tabel FO'])
 
-tab1: 
+with tab1: 
 m = folium.Map(location=[-6.211156,106.816281], zoom_start=13,tiles="Cartodb Positron")
 url = "https://raw.githubusercontent.com/ywisnu/Map/main/Data/merged.json"
 url2 = "https://raw.githubusercontent.com/ywisnu/Map/main/Data/RouteR5.geojson"
@@ -31,8 +33,6 @@ m.add_child(G2)
 
 folium.LayerControl(collapsed=False).add_to(m)
 
-fg_dict = {"Parcels": G2}
-
 col1, col2 = st.columns(2)
 with col1:
     st.markdown("## XL Project")
@@ -43,7 +43,7 @@ with col2:
     df= pd.read_csv("https://raw.githubusercontent.com/ywisnu/portfolio/main/views/project1.csv")
     st.dataframe(df, height=300)
 
- tab2:
+with tab2:
      "## Table FO Project"
     df= pd.read_csv("https://raw.githubusercontent.com/ywisnu/portfolio/main/views/project1.csv")
     st.dataframe(df, height=300)
