@@ -31,7 +31,7 @@ m.add_child(G2)
 folium.LayerControl(collapsed=False).add_to(m)
 
 folium.Marker(location=[-6.230830556,106.7775056],
-    popup=folium.Popup("PAG KEBAYORAN LAMA JAW-JK-KYB-1231", parse_html=True, max_width=100),
+    popup=folium.Popup("PAG KEBAYORAN LAMA JAW-JK-KYB-1231", icon=folium.Icon(color="red", icon="ok-sign"),parse_html=True, max_width=100),
     ).add_to(m)
 
 col1, col2 = st.columns(2)
