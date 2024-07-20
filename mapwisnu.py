@@ -48,37 +48,37 @@ folium.Marker(
 
 folium.Marker(
     location=[-6.253055556,106.8048056],
-    popup=folium.Popup("3G_DHARMAWGS", parse_html=True, max_width=100),
+    popup=folium.Popup("3G_DHARMAWGS T2C1-T2C4", parse_html=True, max_width=100),
     ).add_to(m)
 
 folium.Marker(
     location=[-6.252492,106.804353],
-    popup=folium.Popup("RESIDENCEATDHRMAWANSA", parse_html=True, max_width=100),
+    popup=folium.Popup("RESIDENCEATDHRMAWANSA T1C1-T1C4", parse_html=True, max_width=100),
     ).add_to(m)
 
 folium.Marker(
     location=[-6.249780556,106.808],
-    popup=folium.Popup("KEMANG PRAPANCA", parse_html=True, max_width=100),
+    popup=folium.Popup("KEMANG PRAPANCA T2C1-T2C4", parse_html=True, max_width=100),
     ).add_to(m)
 
 folium.Marker(
     location=[-6.26246557814017,106.812135134260998],
-    popup=folium.Popup("KEMANG VILLAGE2", parse_html=True, max_width=100),
+    popup=folium.Popup("KEMANG VILLAGE2 T1C1-T1C4", parse_html=True, max_width=100),
     ).add_to(m)
 
 folium.Marker(
     location=[-6.262661111,106.8151306],
-    popup=folium.Popup("Kemang6", parse_html=True, max_width=100),
+    popup=folium.Popup("Kemang6 T2C1-T2C4", parse_html=True, max_width=100),
     ).add_to(m)
 
 folium.Marker(
     location=[-6.253169,106.820561],
-    popup=folium.Popup("BANGKA 9", parse_html=True, max_width=100),
+    popup=folium.Popup("BANGKA 9 T1C1-T1C4", parse_html=True, max_width=100),
     ).add_to(m)
 
 folium.Marker(
     location=[-6.250972222,106.8253611],
-    popup=folium.Popup("Mampang Prapatan", parse_html=True, max_width=100),
+    popup=folium.Popup("Mampang Prapatan T1C1-T1C4", parse_html=True, max_width=100),
     ).add_to(m)
 
 col1, col2 = st.columns(2)
