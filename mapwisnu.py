@@ -28,7 +28,7 @@ G2 = folium.GeoJson(url2).add_to(m)
 m.add_child(G2)
 
 folium.LayerControl(collapsed=False).add_to(m)
-
+macro = MacroElement()
 folium.Marker(location=[-6.230830556,106.7775056],
     popup=folium.Popup("PAG KEBAYORAN LAMA JAW-JK-KYB-1231 T1C1-T1C4", parse_html=True, max_width=100),
     icon=folium.Icon(color="red"),
