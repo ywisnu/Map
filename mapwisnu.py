@@ -32,8 +32,6 @@ m.add_child(fg1)
 m.add_child(fg2)
 m.add_child(fg3)
 
-folium.LayerControl(collapsed=False).add_to(m)
-
 GroupedLayerControl(
     groups={"Ring": [fg1, fg2, fg3]},
     collapsed=False,
