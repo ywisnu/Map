@@ -22,9 +22,9 @@ m= folium.Map(location=[-6.211156,106.816281], zoom_start=13,tiles="Cartodb Posi
 url= "https://raw.githubusercontent.com/ywisnu/Map/main/Data/merged.json"
 url2= "https://raw.githubusercontent.com/ywisnu/Map/main/Data/RouteR5.geojson"
 
-fg1 = folium.FeatureGroup(name="g1")
-fg2 = folium.FeatureGroup(name="g2")
-fg3 = folium.FeatureGroup(name="g3")
+fg1 = folium.FeatureGroup(name="Ring 1")
+fg2 = folium.FeatureGroup(name="Ring 2")
+fg3 = folium.FeatureGroup(name="Ring 3")
 folium.GeoJson(url).add_to(fg1)
 folium.GeoJson(url2).add_to(fg2)
 folium.GeoJson(url2).add_to(fg3)
