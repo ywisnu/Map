@@ -21,13 +21,14 @@ st.header('Fiber Optic Project')
 m= folium.Map(location=[-6.211156,106.816281], zoom_start=13,tiles="Cartodb Positron")
 url= "https://raw.githubusercontent.com/ywisnu/Map/main/Data/merged.json"
 url2= "https://raw.githubusercontent.com/ywisnu/Map/main/Data/RouteR5.geojson"
+url3= "https://raw.githubusercontent.com/ywisnu/Map/refs/heads/main/Data/ROUTE_RING.geojson"
 
 fg1 = folium.FeatureGroup(name="Ring 1")
 fg2 = folium.FeatureGroup(name="Ring 2")
 fg3 = folium.FeatureGroup(name="Ring 3")
 folium.GeoJson(url).add_to(fg1)
 folium.GeoJson(url2).add_to(fg2)
-folium.GeoJson(url2).add_to(fg3)
+folium.GeoJson(url3).add_to(fg3)
 m.add_child(fg1)
 m.add_child(fg2)
 m.add_child(fg3)
