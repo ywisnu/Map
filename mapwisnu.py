@@ -18,7 +18,7 @@ st.set_page_config(
 )
 st.header('Fiber Optic Project')
 
-m= folium.Map(location=[-6.211156,106.816281], zoom_start=13,tiles="Cartodb Positron")
+m= folium.Map(location=[-6.211156,106.816281], zoom_start=13,tiles="Cartodb Positron", returned_objects=[])
 url= "https://raw.githubusercontent.com/ywisnu/Map/main/Data/merged.json"
 url2= "https://raw.githubusercontent.com/ywisnu/Map/main/Data/RouteR5.geojson"
 url3= "https://raw.githubusercontent.com/ywisnu/Map/refs/heads/main/Data/ROUTE_RING.geojson"
@@ -37,8 +37,6 @@ GroupedLayerControl(
     groups={"Ring": [fg1, fg2, fg3]},
     collapsed=False,
 ).add_to(m)
-
-st_folium(m, width=725, returned_objects=[])
 
 col1, col2 = st.columns(2)
 with col1:
