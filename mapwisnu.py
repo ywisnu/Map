@@ -38,6 +38,8 @@ GroupedLayerControl(
     collapsed=False,
 ).add_to(m)
 
+st_folium(m, width=725, returned_objects=[])
+
 col1, col2 = st.columns(2)
 with col1:
     st.markdown("Python by Wisnu")
