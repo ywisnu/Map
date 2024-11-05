@@ -1,0 +1,2851 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8676127243729,
+          -6.183598628522115,
+          0
+        ]
+      },
+      "properties": {
+        "name": "RAWASARI_BARAT",
+        "styleUrl": "#msn_donut18",
+        "styleHash": "694d5f75",
+        "styleMapHash": {
+          "normal": "#sn_donut303",
+          "highlight": "#sh_donut25"
+        },
+        "description": "<br><br><br>\n    <table border=\"1\" padding=\"0\">\n      <tr><td>Tower_ID</td><td>JAW-JK-KYB-0468</td></tr>\n      <tr><td>Tower_Name</td><td>RAWASARI_BARAT</td></tr>\n      <tr><td>Province</td><td>DKI JAKARTA</td></tr>\n      <tr><td>Kabupaten</td><td>KOTA JAKARTA PUSAT</td></tr>\n      <tr><td>Long__Dec_</td><td>106.8678889</td></tr>\n      <tr><td>Lat__Dec_</td><td>-6.183527778</td></tr>\n      <tr><td>Tower_Type</td><td>MACRO</td></tr>\n      <tr><td>TP</td><td>PT TOWER BERSAMA</td></tr>\n      <tr><td>Subrod_Current</td><td>0</td></tr>\n      <tr><td>Priority_Site</td><td>P1</td></tr>\n      <tr><td>Priority_City</td><td>P1 City</td></tr>\n      <tr><td>FLP</td><td>CMI</td></tr>\n      <tr><td>Cek___Recheck</td><td>Fiberisasi H1 2023</td></tr>\n      <tr><td>Priority_Site_2</td><td>#N/A</td></tr>",
+        "stroke-width": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8637301784841,
+          -6.187613634423516,
+          0
+        ]
+      },
+      "properties": {
+        "name": "PERCETAKAN NEGARA CEMPAKA PUTIH",
+        "styleUrl": "#msn_donut18",
+        "styleHash": "694d5f75",
+        "styleMapHash": {
+          "normal": "#sn_donut303",
+          "highlight": "#sh_donut25"
+        },
+        "description": "<br><br><br>\n    <table border=\"1\" padding=\"0\">\n      <tr><td>Tower_ID</td><td>JAW-JK-TNA-3064</td></tr>\n      <tr><td>Tower_Name</td><td>PERCETAKAN NEGARA CEMPAKA PUTIH</td></tr>\n      <tr><td>Province</td><td>DKI JAKARTA</td></tr>\n      <tr><td>Kabupaten</td><td>KOTA JAKARTA PUSAT</td></tr>\n      <tr><td>Long__Dec_</td><td>106.8638806</td></tr>\n      <tr><td>Lat__Dec_</td><td>-6.187761111</td></tr>\n      <tr><td>Tower_Type</td><td>MACRO</td></tr>\n      <tr><td>TP</td><td>PT BATAVIA TOWERINDO</td></tr>\n      <tr><td>Subrod_Current</td><td>0</td></tr>\n      <tr><td>Priority_Site</td><td>P1</td></tr>\n      <tr><td>Priority_City</td><td>P1 City</td></tr>\n      <tr><td>FLP</td><td>CMI</td></tr>\n      <tr><td>Cek___Recheck</td><td>Fiber Plan H2 2022</td></tr>\n      <tr><td>Priority_Site_2</td><td>Priority Site</td></tr>",
+        "stroke-width": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.831439,
+          -6.184172,
+          0
+        ]
+      },
+      "properties": {
+        "name": "GEDUNG MNC",
+        "styleUrl": "#m_ylw-pushpin25100000",
+        "styleHash": "324d604b",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin14001",
+          "highlight": "#s_ylw-pushpin_hl51420"
+        },
+        "description": "<br><br><br>\n    <table border=\"1\" padding=\"0\">\n      <tr><td>Tower_ID</td><td>JAW-JK-TNA-2817</td></tr>\n      <tr><td>Tower_Name</td><td>GEDUNG MNC</td></tr>\n      <tr><td>Province</td><td>DKI JAKARTA</td></tr>\n      <tr><td>Kabupaten</td><td>KOTA JAKARTA PUSAT</td></tr>\n      <tr><td>Long__Dec_</td><td>106.8314389</td></tr>\n      <tr><td>Lat__Dec_</td><td>-6.184172222</td></tr>\n      <tr><td>Tower_Type</td><td>PICO</td></tr>\n      <tr><td>TP</td><td>PT DHOST TELEKOMUNIKASI NUSANTARA</td></tr>\n      <tr><td>Subrod_Current</td><td>0</td></tr>\n      <tr><td>Priority_Site</td><td>P1</td></tr>\n      <tr><td>Priority_City</td><td>P1 City</td></tr>\n      <tr><td>FLP</td><td>CMI</td></tr>\n      <tr><td>Cek___Recheck</td><td>Fiber Plan H2 2022</td></tr>\n      <tr><td>Priority_Site_2</td><td>Non Priority</td></tr>",
+        "stroke-width": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8313960334386,
+          -6.185026185712926,
+          0
+        ]
+      },
+      "properties": {
+        "name": "BIMANTARA",
+        "styleUrl": "#msn_donut2221",
+        "styleHash": "6c3d69bd",
+        "styleMapHash": {
+          "normal": "#sn_donut3230",
+          "highlight": "#sh_donut1030"
+        },
+        "description": "<br><br><br>\n    <table border=\"1\" padding=\"0\">\n      <tr><td>Tower_ID</td><td>JAW-JK-TNA-2868</td></tr>\n      <tr><td>Tower_Name</td><td>BIMANTARA</td></tr>\n      <tr><td>Province</td><td>DKI JAKARTA</td></tr>\n      <tr><td>Kabupaten</td><td>KOTA JAKARTA PUSAT</td></tr>\n      <tr><td>Long__Dec_</td><td>106.8313583</td></tr>\n      <tr><td>Lat__Dec_</td><td>-6.184305556</td></tr>\n      <tr><td>Tower_Type</td><td>PICO</td></tr>\n      <tr><td>TP</td><td>PT MASSADA KOMUNIKASI</td></tr>\n      <tr><td>Subrod_Current</td><td>0</td></tr>\n      <tr><td>Priority_Site</td><td>P1</td></tr>\n      <tr><td>Priority_City</td><td>P1 City</td></tr>\n      <tr><td>FLP</td><td>CMI</td></tr>\n      <tr><td>Cek___Recheck</td><td>Fiber Plan H2 2022</td></tr>\n      <tr><td>Priority_Site_2</td><td>Non Priority</td></tr>",
+        "stroke-width": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8248115993585,
+          -6.196432866851644,
+          0
+        ]
+      },
+      "properties": {
+        "name": "IMAM BONJOL RELOCATION",
+        "styleUrl": "#msn_donut0310",
+        "styleHash": "-1e1a14ea",
+        "styleMapHash": {
+          "normal": "#sn_donut612",
+          "highlight": "#sh_donut11100"
+        },
+        "description": "<br><br><br>\n    <table border=\"1\" padding=\"0\">\n      <tr><td>Tower_ID</td><td>JAW-JK-TNA-3199</td></tr>\n      <tr><td>Tower_Name</td><td>IMAM BONJOL RELOCATION</td></tr>\n      <tr><td>Province</td><td>DKI JAKARTA</td></tr>\n      <tr><td>Kabupaten</td><td>KOTA JAKARTA PUSAT</td></tr>\n      <tr><td>Long__Dec_</td><td>106.825</td></tr>\n      <tr><td>Lat__Dec_</td><td>-6.196261111</td></tr>\n      <tr><td>Tower_Type</td><td>MACRO</td></tr>\n      <tr><td>TP</td><td>PT DELTA ART STAR</td></tr>\n      <tr><td>Subrod_Current</td><td>0</td></tr>\n      <tr><td>Priority_Site</td><td>P1</td></tr>\n      <tr><td>Priority_City</td><td>P1 City</td></tr>\n      <tr><td>FLP</td><td>CMI</td></tr>\n      <tr><td>Cek___Recheck</td><td>Fiber Plan H2 2022</td></tr>\n      <tr><td>Priority_Site_2</td><td>Priority Site</td></tr>",
+        "stroke-width": 0.8
+      },
+      "id": "02D0CA97E431EAC73611"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8280975931272,
+          -6.199570290685672,
+          0
+        ]
+      },
+      "properties": {
+        "name": "POLE R1M KEDUTAAN IRAN",
+        "styleUrl": "#msn_donut0310",
+        "styleHash": "-1e1a14ea",
+        "styleMapHash": {
+          "normal": "#sn_donut612",
+          "highlight": "#sh_donut11100"
+        },
+        "description": "<br><br><br>\n    <table border=\"1\" padding=\"0\">\n      <tr><td>Tower_ID</td><td>JAW-JK-TNA-2839</td></tr>\n      <tr><td>Tower_Name</td><td>POLE R1M KEDUTAAN IRAN</td></tr>\n      <tr><td>Province</td><td>DKI JAKARTA</td></tr>\n      <tr><td>Kabupaten</td><td>KOTA JAKARTA PUSAT</td></tr>\n      <tr><td>Long__Dec_</td><td>106.8281389</td></tr>\n      <tr><td>Lat__Dec_</td><td>-6.199638889</td></tr>\n      <tr><td>Tower_Type</td><td>MACRO</td></tr>\n      <tr><td>TP</td><td>PT IFORTE SOLUSI INFOTEK</td></tr>\n      <tr><td>Subrod_Current</td><td>0</td></tr>\n      <tr><td>Priority_Site</td><td>P1</td></tr>\n      <tr><td>Priority_City</td><td>P1 City</td></tr>\n      <tr><td>FLP</td><td>CMI</td></tr>\n      <tr><td>Cek___Recheck</td><td>Fiberisasi H1 2023</td></tr>\n      <tr><td>Priority_Site_2</td><td>#N/A</td></tr>",
+        "stroke-width": 0.8
+      },
+      "id": "09CFE78F1231EAEF51B0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8175967301715,
+          -6.194845607411456,
+          0
+        ]
+      },
+      "properties": {
+        "name": "JAKARTA CITY CENTER",
+        "styleUrl": "#m_ylw-pushpin251000000",
+        "styleHash": "505e3585",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin140010",
+          "highlight": "#s_ylw-pushpin_hl5142"
+        },
+        "description": "<br><br><br>\n    <table border=\"1\" padding=\"0\">\n      <tr><td>Tower_ID</td><td>JAW-JK-TNA-2656</td></tr>\n      <tr><td>Tower_Name</td><td>JAKARTA CITY CENTER</td></tr>\n      <tr><td>Province</td><td>DKI JAKARTA</td></tr>\n      <tr><td>Kabupaten</td><td>KOTA JAKARTA PUSAT</td></tr>\n      <tr><td>Long__Dec_</td><td>106.814</td></tr>\n      <tr><td>Lat__Dec_</td><td>-6.194211111</td></tr>\n      <tr><td>Tower_Type</td><td>PICO</td></tr>\n      <tr><td>TP</td><td>PT DHOST TELEKOMUNIKASI NUSANTARA</td></tr>\n      <tr><td>Subrod_Current</td><td>0</td></tr>\n      <tr><td>Priority_Site</td><td>P1</td></tr>\n      <tr><td>Priority_City</td><td>P1 City</td></tr>\n      <tr><td>FLP</td><td>CMI</td></tr>\n      <tr><td>Cek___Recheck</td><td>Fiber Plan H2 2022</td></tr>\n      <tr><td>Priority_Site_2</td><td>Non Priority</td></tr>",
+        "stroke-width": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.814,
+          -6.190219,
+          0
+        ]
+      },
+      "properties": {
+        "name": "JATI BUNDERAN",
+        "styleUrl": "#msn_donut0310",
+        "styleHash": "-1e1a14ea",
+        "styleMapHash": {
+          "normal": "#sn_donut612",
+          "highlight": "#sh_donut11100"
+        },
+        "description": "<br><br><br>\n    <table border=\"1\" padding=\"0\">\n      <tr><td>Tower_ID</td><td>JAW-JK-TNA-2640</td></tr>\n      <tr><td>Tower_Name</td><td>JATI BUNDERAN</td></tr>\n      <tr><td>Province</td><td>DKI JAKARTA</td></tr>\n      <tr><td>Kabupaten</td><td>KOTA JAKARTA PUSAT</td></tr>\n      <tr><td>Long__Dec_</td><td>106.814</td></tr>\n      <tr><td>Lat__Dec_</td><td>-6.190219444</td></tr>\n      <tr><td>Tower_Type</td><td>MACRO</td></tr>\n      <tr><td>TP</td><td>PT PROFESIONAL TELEKOMUNIKASI INDONESIA</td></tr>\n      <tr><td>Subrod_Current</td><td>0</td></tr>\n      <tr><td>Priority_Site</td><td>P1</td></tr>\n      <tr><td>Priority_City</td><td>P1 City</td></tr>\n      <tr><td>FLP</td><td>CMI</td></tr>\n      <tr><td>Cek___Recheck</td><td>Fiber Plan H2 2022</td></tr>\n      <tr><td>Priority_Site_2</td><td>Non Priority</td></tr>",
+        "stroke-width": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.814528,
+          -6.188692,
+          0
+        ]
+      },
+      "properties": {
+        "name": "JJTC TANAH ABANG",
+        "styleUrl": "#msn_donut1820",
+        "styleHash": "6d5ce0b0",
+        "styleMapHash": {
+          "normal": "#sn_donut232",
+          "highlight": "#sh_donut183"
+        },
+        "description": "<br><br><br>\n    <table border=\"1\" padding=\"0\">\n      <tr><td>Tower_ID</td><td>JAW-JK-TNA-2650</td></tr>\n      <tr><td>Tower_Name</td><td>JJTC TANAH ABANG</td></tr>\n      <tr><td>Province</td><td>DKI JAKARTA</td></tr>\n      <tr><td>Kabupaten</td><td>KOTA JAKARTA PUSAT</td></tr>\n      <tr><td>Long__Dec_</td><td>106.8145278</td></tr>\n      <tr><td>Lat__Dec_</td><td>-6.188691667</td></tr>\n      <tr><td>Tower_Type</td><td>PICO</td></tr>\n      <tr><td>TP</td><td>PT MAC SARANA DJAYA</td></tr>\n      <tr><td>Subrod_Current</td><td>0</td></tr>\n      <tr><td>Priority_Site</td><td>P1</td></tr>\n      <tr><td>Priority_City</td><td>P1 City</td></tr>\n      <tr><td>FLP</td><td>CMI</td></tr>\n      <tr><td>Cek___Recheck</td><td>Fiber Plan H2 2022</td></tr>\n      <tr><td>Priority_Site_2</td><td>Non Priority</td></tr>",
+        "stroke-width": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8147,
+          -6.185311,
+          0
+        ]
+      },
+      "properties": {
+        "name": "KH. FACHRUDIN TANAH ABANG",
+        "styleUrl": "#msn_donut0310",
+        "styleHash": "-1e1a14ea",
+        "styleMapHash": {
+          "normal": "#sn_donut612",
+          "highlight": "#sh_donut11100"
+        },
+        "description": "<br><br><br>\n    <table border=\"1\" padding=\"0\">\n      <tr><td>Tower_ID</td><td>JAW-JK-TNA-2653</td></tr>\n      <tr><td>Tower_Name</td><td>KH. FACHRUDIN TANAH ABANG</td></tr>\n      <tr><td>Province</td><td>DKI JAKARTA</td></tr>\n      <tr><td>Kabupaten</td><td>KOTA JAKARTA PUSAT</td></tr>\n      <tr><td>Long__Dec_</td><td>106.8147</td></tr>\n      <tr><td>Lat__Dec_</td><td>-6.185311111</td></tr>\n      <tr><td>Tower_Type</td><td>MACRO</td></tr>\n      <tr><td>TP</td><td>PT SOLUSINDO KREASI PRATAMA</td></tr>\n      <tr><td>Subrod_Current</td><td>0</td></tr>\n      <tr><td>Priority_Site</td><td>P1</td></tr>\n      <tr><td>Priority_City</td><td>P1 City</td></tr>\n      <tr><td>FLP</td><td>CMI</td></tr>\n      <tr><td>Cek___Recheck</td><td>Fiber Plan H2 2022</td></tr>\n      <tr><td>Priority_Site_2</td><td>Non Priority</td></tr>",
+        "stroke-width": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.814,
+          -6.182261,
+          0
+        ]
+      },
+      "properties": {
+        "name": "CIDENG KOTABAMBU SELATAN",
+        "styleUrl": "#msn_donut0310",
+        "styleHash": "-1e1a14ea",
+        "styleMapHash": {
+          "normal": "#sn_donut612",
+          "highlight": "#sh_donut11100"
+        },
+        "description": "<br><br><br>\n    <table border=\"1\" padding=\"0\">\n      <tr><td>Tower_ID</td><td>JAW-JK-TNA-2647</td></tr>\n      <tr><td>Tower_Name</td><td>CIDENG KOTABAMBU SELATAN</td></tr>\n      <tr><td>Province</td><td>DKI JAKARTA</td></tr>\n      <tr><td>Kabupaten</td><td>KOTA JAKARTA PUSAT</td></tr>\n      <tr><td>Long__Dec_</td><td>106.814</td></tr>\n      <tr><td>Lat__Dec_</td><td>-6.182261111</td></tr>\n      <tr><td>Tower_Type</td><td>MACRO</td></tr>\n      <tr><td>TP</td><td>PT PROFESIONAL TELEKOMUNIKASI INDONESIA</td></tr>\n      <tr><td>Subrod_Current</td><td>0</td></tr>\n      <tr><td>Priority_Site</td><td>P1</td></tr>\n      <tr><td>Priority_City</td><td>P1 City</td></tr>\n      <tr><td>FLP</td><td>CMI</td></tr>\n      <tr><td>Cek___Recheck</td><td>Fiber Plan H2 2022</td></tr>\n      <tr><td>Priority_Site_2</td><td>Non Priority</td></tr>",
+        "stroke-width": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.802533,
+          -6.166486,
+          0
+        ]
+      },
+      "properties": {
+        "name": "ITC ROXY",
+        "styleUrl": "#msn_donut111300",
+        "styleHash": "253dc4d8",
+        "styleMapHash": {
+          "normal": "#sn_donut922",
+          "highlight": "#sh_donut2301"
+        },
+        "description": "<br><br><br>\n    <table border=\"1\" padding=\"0\">\n      <tr><td>Tower_ID</td><td>JAW-JK-TNA-2580</td></tr>\n      <tr><td>Tower_Name</td><td>ITC ROXY</td></tr>\n      <tr><td>Province</td><td>DKI JAKARTA</td></tr>\n      <tr><td>Kabupaten</td><td>KOTA JAKARTA PUSAT</td></tr>\n      <tr><td>Long__Dec_</td><td>106.8025333</td></tr>\n      <tr><td>Lat__Dec_</td><td>-6.166486111</td></tr>\n      <tr><td>Tower_Type</td><td>PICO</td></tr>\n      <tr><td>TP</td><td>PT INFRASTRUKTUR BISNIS SEJAHTERA</td></tr>\n      <tr><td>Subrod_Current</td><td>>0</td></tr>\n      <tr><td>Priority_Site</td><td>P1</td></tr>\n      <tr><td>Priority_City</td><td>P1 City</td></tr>\n      <tr><td>FLP</td><td>CMI</td></tr>\n      <tr><td>Cek___Recheck</td><td>Fiberisasi H1 2023</td></tr>\n      <tr><td>Priority_Site_2</td><td>#N/A</td></tr>",
+        "stroke-width": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.808056,
+          -6.166389,
+          0
+        ]
+      },
+      "properties": {
+        "name": "CIDENG HASYIM RELOCATION",
+        "styleUrl": "#msn_donut20030",
+        "styleHash": "-66379490",
+        "styleMapHash": {
+          "normal": "#sn_donut111",
+          "highlight": "#sh_donut4001"
+        },
+        "description": "<br><br><br>\n    <table border=\"1\" padding=\"0\">\n      <tr><td>Tower_ID</td><td>JAW-JK-TNA-0445</td></tr>\n      <tr><td>Tower_Name</td><td>CIDENG HASYIM RELOCATION</td></tr>\n      <tr><td>Province</td><td>DKI JAKARTA</td></tr>\n      <tr><td>Kabupaten</td><td>KOTA JAKARTA PUSAT</td></tr>\n      <tr><td>Long__Dec_</td><td>106.8080556</td></tr>\n      <tr><td>Lat__Dec_</td><td>-6.166388889</td></tr>\n      <tr><td>Tower_Type</td><td>MACRO</td></tr>\n      <tr><td>TP</td><td>PT BINA MITRA SEHATI</td></tr>\n      <tr><td>Subrod_Current</td><td>0</td></tr>\n      <tr><td>Priority_Site</td><td>P2</td></tr>\n      <tr><td>Priority_City</td><td>P1 City</td></tr>\n      <tr><td>FLP</td><td>CMI</td></tr>\n      <tr><td>Cek___Recheck</td><td>Fiberisasi H1 2023</td></tr>\n      <tr><td>Priority_Site_2</td><td>#N/A</td></tr>",
+        "stroke-width": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.809358,
+          -6.166275,
+          0
+        ]
+      },
+      "properties": {
+        "name": "HOTEL LOSARI ROXY",
+        "styleUrl": "#msn_donut111300",
+        "styleHash": "253dc4d8",
+        "styleMapHash": {
+          "normal": "#sn_donut922",
+          "highlight": "#sh_donut2301"
+        },
+        "description": "<br><br><br>\n    <table border=\"1\" padding=\"0\">\n      <tr><td>Tower_ID</td><td>JAW-JK-TNA-2611</td></tr>\n      <tr><td>Tower_Name</td><td>HOTEL LOSARI ROXY</td></tr>\n      <tr><td>Province</td><td>DKI JAKARTA</td></tr>\n      <tr><td>Kabupaten</td><td>KOTA JAKARTA PUSAT</td></tr>\n      <tr><td>Long__Dec_</td><td>106.8093583</td></tr>\n      <tr><td>Lat__Dec_</td><td>-6.166275</td></tr>\n      <tr><td>Tower_Type</td><td>PICO</td></tr>\n      <tr><td>TP</td><td>PT MAC SARANA DJAYA</td></tr>\n      <tr><td>Subrod_Current</td><td>0</td></tr>\n      <tr><td>Priority_Site</td><td>P1</td></tr>\n      <tr><td>Priority_City</td><td>P1 City</td></tr>\n      <tr><td>FLP</td><td>CMI</td></tr>\n      <tr><td>Cek___Recheck</td><td>Fiber Plan H2 2022</td></tr>\n      <tr><td>Priority_Site_2</td><td>Non Priority</td></tr>",
+        "stroke-width": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.809267344727,
+          -6.166803657690592,
+          0
+        ]
+      },
+      "properties": {
+        "name": "HUT Roxy",
+        "styleUrl": "#msn_download23000200",
+        "styleHash": "-4f2b77b6",
+        "styleMapHash": {
+          "normal": "#sn_download190000",
+          "highlight": "#sh_download2300020"
+        },
+        "Tower_ID_A": "JAW-JK-TNA-3241",
+        "Site_Name_A": "HUT Roxy",
+        "Long": "106.808",
+        "Lat": "-6.16642"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8530694444445,
+          -6.174019,
+          0
+        ]
+      },
+      "properties": {
+        "name": "SUPERNODE SENEN/GALUR",
+        "styleUrl": "#msn_Icon KML XL030",
+        "styleHash": "-37878032",
+        "styleMapHash": {
+          "normal": "#sn_Icon KML XL110",
+          "highlight": "#sh_Icon KML XL1"
+        },
+        "description": "JAW-JK-TNA-2536"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8530704086391,
+            -6.174019259838155,
+            0
+          ],
+          [
+            106.8533301205975,
+            -6.173988776815379,
+            0
+          ],
+          [
+            106.853319036491,
+            -6.174347903814669,
+            0
+          ],
+          [
+            106.854020618013,
+            -6.174288519634833,
+            0
+          ],
+          [
+            106.8549117769663,
+            -6.174189603157089,
+            0
+          ],
+          [
+            106.8569100171004,
+            -6.17385807720751,
+            0
+          ],
+          [
+            106.8578178388578,
+            -6.173738677095022,
+            0
+          ],
+          [
+            106.8587461113104,
+            -6.173538391558048,
+            0
+          ],
+          [
+            106.8592986994526,
+            -6.173450862456878,
+            0
+          ],
+          [
+            106.8604867914992,
+            -6.172980027060161,
+            0
+          ],
+          [
+            106.8618543312772,
+            -6.172435022083609,
+            0
+          ],
+          [
+            106.8622735487692,
+            -6.17223023454983,
+            0
+          ],
+          [
+            106.8624341997529,
+            -6.172617274584574,
+            0
+          ],
+          [
+            106.8652233978538,
+            -6.171310336227995,
+            0
+          ],
+          [
+            106.8657349627955,
+            -6.172401553121538,
+            0
+          ],
+          [
+            106.8658734863682,
+            -6.172675275293928,
+            0
+          ],
+          [
+            106.8658954654372,
+            -6.173097588614585,
+            0
+          ],
+          [
+            106.8656332613937,
+            -6.173510183412309,
+            0
+          ],
+          [
+            106.8646879685093,
+            -6.173966649922673,
+            0
+          ],
+          [
+            106.8643353668917,
+            -6.174309396072278,
+            0
+          ],
+          [
+            106.8640876799413,
+            -6.174673484327601,
+            0
+          ],
+          [
+            106.8641001309062,
+            -6.176066974741783,
+            0
+          ],
+          [
+            106.8640865174167,
+            -6.174680818603268,
+            0
+          ],
+          [
+            106.8641001309062,
+            -6.176066974741783,
+            0
+          ],
+          [
+            106.8642124844527,
+            -6.176894162487066,
+            0
+          ],
+          [
+            106.8651241722974,
+            -6.178174926511689,
+            0
+          ],
+          [
+            106.8661106905787,
+            -6.179265547710727,
+            0
+          ],
+          [
+            106.8673999235147,
+            -6.180720793227186,
+            0
+          ],
+          [
+            106.8665745397209,
+            -6.17978625043428,
+            0
+          ],
+          [
+            106.8673907422696,
+            -6.180728974935549,
+            0
+          ],
+          [
+            106.8687496339603,
+            -6.18221805908423,
+            0
+          ],
+          [
+            106.8690139532809,
+            -6.182928900209173,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SUPERNODE SENEN/GALUR-RAWASARI_BARAT",
+        "styleUrl": "#inline93349000",
+        "styleHash": "-2c3e8718",
+        "styleMapHash": {
+          "normal": "#inline661336650",
+          "highlight": "#inline631511491"
+        },
+        "description": "3656 (3496+160)",
+        "stroke": "#0000ff",
+        "stroke-opacity": 1,
+        "stroke-width": 5,
+        "fill-opacity": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8690120372716,
+            -6.182927862637456,
+            0
+          ],
+          [
+            106.8692245019379,
+            -6.183513711559933,
+            0
+          ],
+          [
+            106.8694360415061,
+            -6.184057690895836,
+            0
+          ],
+          [
+            106.8695973798191,
+            -6.184860401709041,
+            0
+          ],
+          [
+            106.8698180446105,
+            -6.186263765242034,
+            0
+          ],
+          [
+            106.86981714221,
+            -6.186524258344633,
+            0
+          ],
+          [
+            106.8695793841178,
+            -6.187241530359075,
+            0
+          ],
+          [
+            106.8694434402227,
+            -6.187339919908645,
+            0
+          ],
+          [
+            106.8688115119008,
+            -6.187271797550514,
+            0
+          ],
+          [
+            106.8681717769452,
+            -6.187070273739783,
+            0
+          ],
+          [
+            106.8675850375968,
+            -6.186915150565351,
+            0
+          ],
+          [
+            106.8681717769452,
+            -6.187070273739783,
+            0
+          ],
+          [
+            106.867584237165,
+            -6.186911288703914,
+            0
+          ],
+          [
+            106.8672483915103,
+            -6.186778021167266,
+            0
+          ],
+          [
+            106.8667086875924,
+            -6.186747287780363,
+            0
+          ],
+          [
+            106.8663473103219,
+            -6.18685563348956,
+            0
+          ],
+          [
+            106.8655516479869,
+            -6.187149705255357,
+            0
+          ],
+          [
+            106.8663428684736,
+            -6.186850296429195,
+            0
+          ],
+          [
+            106.8655514120949,
+            -6.187144437333547,
+            0
+          ],
+          [
+            106.8647964661148,
+            -6.187514611031168,
+            0
+          ],
+          [
+            106.8638829228151,
+            -6.187916456446906,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "RAWASARI_BARAT-PERCETAKAN NEGARA CEMPAKA PUTIH",
+        "styleUrl": "#inline933490001",
+        "styleHash": "75c70898",
+        "styleMapHash": {
+          "normal": "#inline66133665",
+          "highlight": "#inline63151149"
+        },
+        "description": "1484",
+        "stroke": "#0000ff",
+        "stroke-opacity": 1,
+        "stroke-width": 5,
+        "fill-opacity": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8638827593516,
+            -6.187916131132782,
+            0
+          ],
+          [
+            106.862968719134,
+            -6.188462768136895,
+            0
+          ],
+          [
+            106.8626611311507,
+            -6.188549444899307,
+            0
+          ],
+          [
+            106.8621847598148,
+            -6.18864019269253,
+            0
+          ],
+          [
+            106.8605815831098,
+            -6.188917423098778,
+            0
+          ],
+          [
+            106.860137985615,
+            -6.18906784750135,
+            0
+          ],
+          [
+            106.8597200282708,
+            -6.189272070762116,
+            0
+          ],
+          [
+            106.8585238561603,
+            -6.19002029484497,
+            0
+          ],
+          [
+            106.8572716429056,
+            -6.190853288817695,
+            0
+          ],
+          [
+            106.8585266481593,
+            -6.190016963976874,
+            0
+          ],
+          [
+            106.8572760877808,
+            -6.190853288242958,
+            0
+          ],
+          [
+            106.8560137681942,
+            -6.19163258292238,
+            0
+          ],
+          [
+            106.8555714479763,
+            -6.192012241421559,
+            0
+          ],
+          [
+            106.8517629257851,
+            -6.187224612176539,
+            0
+          ],
+          [
+            106.8515198240472,
+            -6.187316677101779,
+            0
+          ],
+          [
+            106.849753661943,
+            -6.18488192471024,
+            0
+          ],
+          [
+            106.8492155292631,
+            -6.184806156025028,
+            0
+          ],
+          [
+            106.8488409586908,
+            -6.184826852029013,
+            0
+          ],
+          [
+            106.8484231541185,
+            -6.184801425600372,
+            0
+          ],
+          [
+            106.8479807358856,
+            -6.184828161898142,
+            0
+          ],
+          [
+            106.8474396769051,
+            -6.184966820125463,
+            0
+          ],
+          [
+            106.847267623679,
+            -6.184474020248342,
+            0
+          ],
+          [
+            106.8470621155743,
+            -6.183585315497676,
+            0
+          ],
+          [
+            106.8469355807261,
+            -6.182750254608718,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "PERCETAKAN NEGARA CEMPAKA PUTIH-GEDUNG MNC",
+        "styleUrl": "#inline933490001",
+        "styleHash": "75c70898",
+        "styleMapHash": {
+          "normal": "#inline66133665",
+          "highlight": "#inline63151149"
+        },
+        "description": "arial\n2754",
+        "stroke": "#0000ff",
+        "stroke-opacity": 1,
+        "stroke-width": 5,
+        "fill-opacity": 0
+      },
+      "id": "0BEFE8139233AA166964"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8282533931647,
+            -6.195353204310535,
+            0
+          ],
+          [
+            106.8280978483988,
+            -6.195323979247884,
+            0
+          ],
+          [
+            106.8272603583046,
+            -6.195205650653592,
+            0
+          ],
+          [
+            106.8263976621298,
+            -6.195074288926536,
+            0
+          ],
+          [
+            106.8255161029217,
+            -6.194947183320456,
+            0
+          ],
+          [
+            106.8252498081514,
+            -6.194896624327099,
+            0
+          ],
+          [
+            106.8252288688533,
+            -6.19500121139121,
+            0
+          ],
+          [
+            106.82506421209,
+            -6.196436532538348,
+            0
+          ],
+          [
+            106.8249858478685,
+            -6.196552162528003,
+            0
+          ],
+          [
+            106.8248977886831,
+            -6.196620907444271,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "KEBON KACANG THAMRIN RELOCATION 1-IMAM BONJOL RELOCATION",
+        "styleUrl": "#inline933490001",
+        "styleHash": "75c70898",
+        "styleMapHash": {
+          "normal": "#inline66133665",
+          "highlight": "#inline63151149"
+        },
+        "stroke": "#0000ff",
+        "stroke-opacity": 1,
+        "stroke-width": 5,
+        "fill-opacity": 0
+      },
+      "id": "0E3C50E52D33AA19094C"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8248877789213,
+            -6.196633191816393,
+            0
+          ],
+          [
+            106.8252550313914,
+            -6.197040999643206,
+            0
+          ],
+          [
+            106.8260581524013,
+            -6.197915296236221,
+            0
+          ],
+          [
+            106.826486430167,
+            -6.198392538579517,
+            0
+          ],
+          [
+            106.8260614001363,
+            -6.19791621510741,
+            0
+          ],
+          [
+            106.8264876867163,
+            -6.198394179654541,
+            0
+          ],
+          [
+            106.8268714081475,
+            -6.198794269461742,
+            0
+          ],
+          [
+            106.8274440018191,
+            -6.19917211243808,
+            0
+          ],
+          [
+            106.8281350574266,
+            -6.199467050468867,
+            0
+          ],
+          [
+            106.8281393302657,
+            -6.199612925473776,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "IMAM BONJOL RELOCATION-POLE R1M KEDUTAAN IRAN",
+        "styleUrl": "#inline933490001",
+        "styleHash": "75c70898",
+        "styleMapHash": {
+          "normal": "#inline66133665",
+          "highlight": "#inline63151149"
+        },
+        "stroke": "#0000ff",
+        "stroke-opacity": 1,
+        "stroke-width": 5,
+        "fill-opacity": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8281341621642,
+            -6.199455791356984,
+            0
+          ],
+          [
+            106.8281441897195,
+            -6.199739070726093,
+            0
+          ],
+          [
+            106.8283750630412,
+            -6.199779334322326,
+            0
+          ],
+          [
+            106.8283093044788,
+            -6.200424138668258,
+            0
+          ],
+          [
+            106.8282400316144,
+            -6.201179634921206,
+            0
+          ],
+          [
+            106.828195032699,
+            -6.201937182556863,
+            0
+          ],
+          [
+            106.8282403164805,
+            -6.201179038926187,
+            0
+          ],
+          [
+            106.8281949700004,
+            -6.201939982326746,
+            0
+          ],
+          [
+            106.8281772589194,
+            -6.202533442935835,
+            0
+          ],
+          [
+            106.8281242992414,
+            -6.20330520793759,
+            0
+          ],
+          [
+            106.8281727677734,
+            -6.202540907051431,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "POLE R1M KEDUTAAN IRAN-JAKARTA CITY CENTER",
+        "styleUrl": "#inline933490001",
+        "styleHash": "75c70898",
+        "styleMapHash": {
+          "normal": "#inline66133665",
+          "highlight": "#inline63151149"
+        },
+        "stroke": "#0000ff",
+        "stroke-opacity": 1,
+        "stroke-width": 5,
+        "fill-opacity": 0
+      },
+      "id": "0EA189E54731EAEF669D"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8282547847098,
+            -6.195362573566366,
+            0
+          ],
+          [
+            106.828648674788,
+            -6.195434615521529,
+            0
+          ],
+          [
+            106.8287623329117,
+            -6.19498984768651,
+            0
+          ],
+          [
+            106.8287834624041,
+            -6.193892951441,
+            0
+          ],
+          [
+            106.8287817865098,
+            -6.192997025014591,
+            0
+          ],
+          [
+            106.8288371463055,
+            -6.191870085739202,
+            0
+          ],
+          [
+            106.8286865181741,
+            -6.19172055179502,
+            0
+          ],
+          [
+            106.828723110137,
+            -6.191543820349244,
+            0
+          ],
+          [
+            106.8288851472564,
+            -6.191477658416331,
+            0
+          ],
+          [
+            106.82890400743,
+            -6.190013255305034,
+            0
+          ],
+          [
+            106.8289311040314,
+            -6.189359173456629,
+            0
+          ],
+          [
+            106.8289352821536,
+            -6.188834911716849,
+            0
+          ],
+          [
+            106.828936812942,
+            -6.18838460179724,
+            0
+          ],
+          [
+            106.8288904245641,
+            -6.188342716397264,
+            0
+          ],
+          [
+            106.8288997092705,
+            -6.188265129628123,
+            0
+          ],
+          [
+            106.8290349652133,
+            -6.188248665823466,
+            0
+          ],
+          [
+            106.8292092821137,
+            -6.188113367038611,
+            0
+          ],
+          [
+            106.8293941133552,
+            -6.187950546498029,
+            0
+          ],
+          [
+            106.829553158433,
+            -6.187783933618606,
+            0
+          ],
+          [
+            106.8297705097845,
+            -6.187624488322777,
+            0
+          ],
+          [
+            106.8299003853386,
+            -6.18746561847259,
+            0
+          ],
+          [
+            106.8299301305388,
+            -6.187379810506689,
+            0
+          ],
+          [
+            106.8298833102277,
+            -6.187276362341678,
+            0
+          ],
+          [
+            106.8298739277636,
+            -6.187150532291989,
+            0
+          ],
+          [
+            106.8300799896577,
+            -6.187151094176342,
+            0
+          ],
+          [
+            106.8302188020131,
+            -6.187104523242104,
+            0
+          ],
+          [
+            106.8303100060935,
+            -6.187025097408495,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Rute Polongan Bersama Sentratel",
+        "styleUrl": "#__managed_style_03BF3F4C0833AA432B8E",
+        "styleHash": "-2a1d3052",
+        "styleMapHash": {
+          "normal": "#failed1",
+          "highlight": "#failed5"
+        },
+        "stroke": "#aa00ff",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      },
+      "id": "0F5AF6912133AA1B0246"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8148352817335,
+            -6.185222089800514,
+            0
+          ],
+          [
+            106.8149897700843,
+            -6.185161429152819,
+            0
+          ],
+          [
+            106.8151914629109,
+            -6.184993413757927,
+            0
+          ],
+          [
+            106.8152023656889,
+            -6.184848772656077,
+            0
+          ],
+          [
+            106.8152840621863,
+            -6.184477435923396,
+            0
+          ],
+          [
+            106.8156100001339,
+            -6.183979827971187,
+            0
+          ],
+          [
+            106.8152860347576,
+            -6.184480727168978,
+            0
+          ],
+          [
+            106.8156131601585,
+            -6.183979828277213,
+            0
+          ],
+          [
+            106.8159138996724,
+            -6.183482542825988,
+            0
+          ],
+          [
+            106.8161507410992,
+            -6.183136713711475,
+            0
+          ],
+          [
+            106.8159171404953,
+            -6.183479206879519,
+            0
+          ],
+          [
+            106.8161539380031,
+            -6.183136714444436,
+            0
+          ],
+          [
+            106.8160074612884,
+            -6.183057773443146,
+            0
+          ],
+          [
+            106.8165464071516,
+            -6.182110881903876,
+            0
+          ],
+          [
+            106.8166367400259,
+            -6.181968339298915,
+            0
+          ],
+          [
+            106.8165066094636,
+            -6.181886705900265,
+            0
+          ],
+          [
+            106.8164656089053,
+            -6.181830790943823,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "KH. FACHRUDIN TANAH ABANG-CIDENG KOTABAMBU SELATAN",
+        "styleUrl": "#inline93349001",
+        "styleHash": "-125659c9",
+        "styleMapHash": {
+          "normal": "#inline6613366501",
+          "highlight": "#inline631511490"
+        },
+        "stroke": "#ffff00",
+        "stroke-opacity": 1,
+        "stroke-width": 5,
+        "fill-opacity": 0
+      },
+      "id": "0C488F066131DF9B6451"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8165066094636,
+            -6.181886705900265,
+            0
+          ],
+          [
+            106.8164656089053,
+            -6.181830790943823,
+            0
+          ],
+          [
+            106.816525218556,
+            -6.181697304995464,
+            0
+          ],
+          [
+            106.8162569831469,
+            -6.181600374673448,
+            0
+          ],
+          [
+            106.8158181503436,
+            -6.181496131658152,
+            0
+          ],
+          [
+            106.8153055330862,
+            -6.181480688612649,
+            0
+          ],
+          [
+            106.8147579648152,
+            -6.181546323328972,
+            0
+          ],
+          [
+            106.8144612453733,
+            -6.181592405255422,
+            0
+          ],
+          [
+            106.8147568511965,
+            -6.181545409464684,
+            0
+          ],
+          [
+            106.8144629616855,
+            -6.181592405640492,
+            0
+          ],
+          [
+            106.8142142784507,
+            -6.181565626655446,
+            0
+          ],
+          [
+            106.8140744730809,
+            -6.18152315644098,
+            0
+          ],
+          [
+            106.8138375800008,
+            -6.181426633170582,
+            0
+          ],
+          [
+            106.8136628223342,
+            -6.181229726300529,
+            0
+          ],
+          [
+            106.8135113647656,
+            -6.180928574199166,
+            0
+          ],
+          [
+            106.8134222133558,
+            -6.180639455287756,
+            0
+          ],
+          [
+            106.8133656210403,
+            -6.180232201248597,
+            0
+          ],
+          [
+            106.8132202064962,
+            -6.180256388556112,
+            0
+          ],
+          [
+            106.8131185582467,
+            -6.180283524985617,
+            0
+          ],
+          [
+            106.8129537786728,
+            -6.180364693107177,
+            0
+          ],
+          [
+            106.8130453395802,
+            -6.18077413245562,
+            0
+          ],
+          [
+            106.8131501964759,
+            -6.181237444583498,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "KH. FACHRUDIN TANAH ABANG-CIDENG KOTABAMBU SELATAN",
+        "styleUrl": "#inline93349001",
+        "styleHash": "-125659c9",
+        "styleMapHash": {
+          "normal": "#inline6613366501",
+          "highlight": "#inline631511490"
+        },
+        "stroke": "#ffff00",
+        "stroke-opacity": 1,
+        "stroke-width": 5,
+        "fill-opacity": 0
+      },
+      "id": "0EB77ADE3731EECDFF93"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8102545156939,
+            -6.165813653562666,
+            0
+          ],
+          [
+            106.8096108660251,
+            -6.165863878278007,
+            0
+          ],
+          [
+            106.8099538161284,
+            -6.165833424862912,
+            0
+          ],
+          [
+            106.8096133005768,
+            -6.165863879191441,
+            0
+          ],
+          [
+            106.8096141452438,
+            -6.165865885175781,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "HOTEL LOSARI ROXY-HUT Roxy",
+        "styleUrl": "#inline93349001",
+        "styleHash": "-125659c9",
+        "styleMapHash": {
+          "normal": "#inline6613366501",
+          "highlight": "#inline631511490"
+        },
+        "stroke": "#ffff00",
+        "stroke-opacity": 1,
+        "stroke-width": 5,
+        "fill-opacity": 0
+      },
+      "id": "0C46B7BD6133AA24337C"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8081352343201,
+            -6.16635713189514,
+            0
+          ],
+          [
+            106.808305047804,
+            -6.166372510348794,
+            0
+          ],
+          [
+            106.808294180423,
+            -6.165976051655516,
+            0
+          ],
+          [
+            106.8096337675761,
+            -6.16585420342391,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "ITC ROXY-CIDENG HASYIM RELOCATION",
+        "styleUrl": "#inline9334900",
+        "styleHash": "7a1de316",
+        "styleMapHash": {
+          "normal": "#inline6613366502",
+          "highlight": "#inline6315114901"
+        },
+        "stroke": "#ffff00",
+        "stroke-opacity": 1,
+        "stroke-width": 5,
+        "fill-opacity": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8690118946547,
+            -6.182932487346897,
+            0
+          ],
+          [
+            106.8685338643325,
+            -6.183112142577185,
+            0
+          ],
+          [
+            106.8681984012588,
+            -6.18324244840368,
+            0
+          ],
+          [
+            106.867824677509,
+            -6.183389349106318,
+            0
+          ],
+          [
+            106.8675711326697,
+            -6.183515966350383,
+            0
+          ],
+          [
+            106.8676115445404,
+            -6.183591211628783,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "LM SUPERNODE SENEN/GALUR-RAWASARI_BARAT",
+        "styleUrl": "#inline93349001",
+        "styleHash": "-125659c9",
+        "styleMapHash": {
+          "normal": "#inline6613366501",
+          "highlight": "#inline631511490"
+        },
+        "stroke": "#ffff00",
+        "stroke-opacity": 1,
+        "stroke-width": 5,
+        "fill-opacity": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8638825541025,
+            -6.187915268307574,
+            0
+          ],
+          [
+            106.8639184541562,
+            -6.187898773590882,
+            0
+          ],
+          [
+            106.8638230874762,
+            -6.187611567680025,
+            0
+          ],
+          [
+            106.8637337156048,
+            -6.187642696225926,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "LM RAWASARI_BARAT-PERCETAKAN NEGARA CEMPAKA PUTIH",
+        "styleUrl": "#inline93349001",
+        "styleHash": "-125659c9",
+        "styleMapHash": {
+          "normal": "#inline6613366501",
+          "highlight": "#inline631511490"
+        },
+        "description": "220",
+        "stroke": "#ffff00",
+        "stroke-opacity": 1,
+        "stroke-width": 5,
+        "fill-opacity": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8322616002027,
+            -6.18258077002322,
+            0
+          ],
+          [
+            106.8322996211964,
+            -6.18280859437113,
+            0
+          ],
+          [
+            106.8320106256054,
+            -6.182843088516335,
+            0
+          ],
+          [
+            106.8321650648921,
+            -6.184050314355927,
+            0
+          ],
+          [
+            106.8318794822035,
+            -6.183906352641572,
+            0
+          ],
+          [
+            106.8318987954375,
+            -6.18407532654011,
+            0
+          ],
+          [
+            106.8319087609466,
+            -6.184344252266795,
+            0
+          ],
+          [
+            106.8310081209859,
+            -6.184490243342657,
+            0
+          ],
+          [
+            106.8309343619166,
+            -6.183935930547192,
+            0
+          ],
+          [
+            106.8314302175949,
+            -6.183885400124472,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "LM PERCETAKAN NEGARA CEMPAKA PUTIH-GEDUNG MNC",
+        "styleUrl": "#inline93349001",
+        "styleHash": "-125659c9",
+        "styleMapHash": {
+          "normal": "#inline6613366501",
+          "highlight": "#inline631511490"
+        },
+        "stroke": "#ffff00",
+        "stroke-opacity": 1,
+        "stroke-width": 5,
+        "fill-opacity": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8321759663835,
+            -6.184343765790662,
+            0
+          ],
+          [
+            106.8322650805601,
+            -6.184717587152124,
+            0
+          ],
+          [
+            106.8319305322371,
+            -6.18473062558078,
+            0
+          ],
+          [
+            106.8319763771167,
+            -6.18536007055799,
+            0
+          ],
+          [
+            106.8311527269801,
+            -6.185419762588714,
+            0
+          ],
+          [
+            106.8311003307208,
+            -6.184933341196382,
+            0
+          ],
+          [
+            106.8310475586789,
+            -6.184616893326921,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "LM GEDUNG MNC-BIMANTARA",
+        "styleUrl": "#inline93349001",
+        "styleHash": "-125659c9",
+        "styleMapHash": {
+          "normal": "#inline6613366501",
+          "highlight": "#inline631511490"
+        },
+        "stroke": "#ffff00",
+        "stroke-opacity": 1,
+        "stroke-width": 5,
+        "fill-opacity": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8248750763861,
+            -6.196636959399997,
+            0
+          ],
+          [
+            106.8249918503573,
+            -6.196546987969941,
+            0
+          ],
+          [
+            106.8250436005226,
+            -6.196420614476702,
+            0
+          ],
+          [
+            106.8248091999343,
+            -6.196431673363131,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "LM KEBON KACANG THAMRIN RELOCATION 1-IMAM BONJOL RELOCATION",
+        "styleUrl": "#inline93349001",
+        "styleHash": "-125659c9",
+        "styleMapHash": {
+          "normal": "#inline6613366501",
+          "highlight": "#inline631511490"
+        },
+        "stroke": "#ffff00",
+        "stroke-opacity": 1,
+        "stroke-width": 5,
+        "fill-opacity": 0
+      },
+      "id": "0CDC63E2D131EAC76435"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8281443561588,
+            -6.199448059521365,
+            0
+          ],
+          [
+            106.8281441953677,
+            -6.199593452648085,
+            0
+          ],
+          [
+            106.8279363107737,
+            -6.19953461671812,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "LM IMAM BONJOL RELOCATION-POLE R1M KEDUTAAN IRAN",
+        "styleUrl": "#inline93349001",
+        "styleHash": "-125659c9",
+        "styleMapHash": {
+          "normal": "#inline6613366501",
+          "highlight": "#inline631511490"
+        },
+        "stroke": "#ffff00",
+        "stroke-opacity": 1,
+        "stroke-width": 5,
+        "fill-opacity": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8148596692879,
+            -6.194088618564242,
+            0
+          ],
+          [
+            106.8148944043238,
+            -6.193964205247496,
+            0
+          ],
+          [
+            106.8153917183361,
+            -6.194039688897714,
+            0
+          ],
+          [
+            106.8153236247673,
+            -6.194776949700738,
+            0
+          ],
+          [
+            106.8153014163886,
+            -6.195046581254797,
+            0
+          ],
+          [
+            106.8173702625602,
+            -6.195405233543397,
+            0
+          ],
+          [
+            106.817621177323,
+            -6.195232386844133,
+            0
+          ],
+          [
+            106.8173702625602,
+            -6.195405233543397,
+            0
+          ],
+          [
+            106.8176132710403,
+            -6.195237841202936,
+            0
+          ],
+          [
+            106.8176640342689,
+            -6.194827592408447,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "LM POLE R1M KEDUTAAN IRAN-JAKARTA CITY CENTER",
+        "styleUrl": "#inline93349001",
+        "styleHash": "-125659c9",
+        "styleMapHash": {
+          "normal": "#inline6613366501",
+          "highlight": "#inline631511490"
+        },
+        "stroke": "#ffff00",
+        "stroke-opacity": 1,
+        "stroke-width": 5,
+        "fill-opacity": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8149770962364,
+            -6.190507721842649,
+            0
+          ],
+          [
+            106.8152266570233,
+            -6.188596645820051,
+            0
+          ],
+          [
+            106.8151372644766,
+            -6.188423694094112,
+            0
+          ],
+          [
+            106.8149952354731,
+            -6.188346793979043,
+            0
+          ],
+          [
+            106.814374946475,
+            -6.18848664700016,
+            0
+          ],
+          [
+            106.8144191039768,
+            -6.188709227419848,
+            0
+          ],
+          [
+            106.8145324238041,
+            -6.18868832602105,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "LM JATI BUNDERAN-JJTC TANAH ABANG",
+        "styleUrl": "#inline93349001",
+        "styleHash": "-125659c9",
+        "styleMapHash": {
+          "normal": "#inline6613366501",
+          "highlight": "#inline631511490"
+        },
+        "stroke": "#ffff00",
+        "stroke-opacity": 1,
+        "stroke-width": 5,
+        "fill-opacity": 0
+      },
+      "id": "08E94A466831CBE03C16"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8148444545548,
+            -6.185220267728842,
+            0
+          ],
+          [
+            106.8147251737446,
+            -6.185246661367529,
+            0
+          ],
+          [
+            106.8145452441884,
+            -6.185523633372135,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "LM JJTC TANAH ABANG-KH. FACHRUDIN TANAH ABANG",
+        "styleUrl": "#inline93349001",
+        "styleHash": "-125659c9",
+        "styleMapHash": {
+          "normal": "#inline6613366501",
+          "highlight": "#inline631511490"
+        },
+        "stroke": "#ffff00",
+        "stroke-opacity": 1,
+        "stroke-width": 5,
+        "fill-opacity": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8164661642384,
+            -6.181841478576337,
+            0
+          ],
+          [
+            106.8161808845831,
+            -6.181734303332371,
+            0
+          ],
+          [
+            106.8158707270069,
+            -6.181683631106225,
+            0
+          ],
+          [
+            106.8155626538023,
+            -6.181608712376879,
+            0
+          ],
+          [
+            106.8150759537866,
+            -6.181614257368965,
+            0
+          ],
+          [
+            106.8155647773952,
+            -6.181611514535525,
+            0
+          ],
+          [
+            106.8150783486531,
+            -6.18161425765418,
+            0
+          ],
+          [
+            106.8146129857271,
+            -6.181799169486918,
+            0
+          ],
+          [
+            106.8143698062514,
+            -6.181946397251306,
+            0
+          ],
+          [
+            106.8138918682692,
+            -6.18224906835813,
+            0
+          ],
+          [
+            106.8141433795789,
+            -6.18248510497783,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "LM KH. FACHRUDIN TANAH ABANG-CIDENG KOTABAMBU SELATAN",
+        "styleUrl": "#inline93349001",
+        "styleHash": "-125659c9",
+        "styleMapHash": {
+          "normal": "#inline6613366501",
+          "highlight": "#inline631511490"
+        },
+        "stroke": "#ffff00",
+        "stroke-opacity": 1,
+        "stroke-width": 5,
+        "fill-opacity": 0
+      },
+      "id": "08ABFF11BE31DF9B77F9"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8103134665329,
+            -6.165843449887243,
+            0
+          ],
+          [
+            106.8105674329802,
+            -6.168782965908787,
+            0
+          ],
+          [
+            106.8098722442234,
+            -6.16878950614171,
+            0
+          ],
+          [
+            106.8090204277545,
+            -6.168652397196282,
+            0
+          ],
+          [
+            106.8082106657733,
+            -6.168802975326692,
+            0
+          ],
+          [
+            106.8063488880689,
+            -6.168850990308174,
+            0
+          ],
+          [
+            106.8059419861906,
+            -6.169081768199082,
+            0
+          ],
+          [
+            106.8063482776656,
+            -6.168851450443968,
+            0
+          ],
+          [
+            106.8059438547282,
+            -6.169081336952067,
+            0
+          ],
+          [
+            106.8053717019971,
+            -6.169454505129782,
+            0
+          ],
+          [
+            106.8051883105838,
+            -6.169299573668897,
+            0
+          ],
+          [
+            106.8051054755903,
+            -6.169387498054624,
+            0
+          ],
+          [
+            106.8040570508576,
+            -6.170107622828932,
+            0
+          ],
+          [
+            106.8037415876925,
+            -6.169648548490307,
+            0
+          ],
+          [
+            106.803347849506,
+            -6.169045274612356,
+            0
+          ],
+          [
+            106.8037450031561,
+            -6.169648385530795,
+            0
+          ],
+          [
+            106.8033485977575,
+            -6.169046065512934,
+            0
+          ],
+          [
+            106.8029710596041,
+            -6.168508421994213,
+            0
+          ],
+          [
+            106.8027683963386,
+            -6.168120134614809,
+            0
+          ],
+          [
+            106.8026489757734,
+            -6.167868040372268,
+            0
+          ],
+          [
+            106.8025562122235,
+            -6.167582940862602,
+            0
+          ],
+          [
+            106.8024730012511,
+            -6.167237399427727,
+            0
+          ],
+          [
+            106.8024622017227,
+            -6.167001798343711,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "LM CIDENG KOTABAMBU SELATAN-ITC ROXY",
+        "styleUrl": "#inline93349001",
+        "styleHash": "-125659c9",
+        "styleMapHash": {
+          "normal": "#inline6613366501",
+          "highlight": "#inline631511490"
+        },
+        "stroke": "#ffff00",
+        "stroke-opacity": 1,
+        "stroke-width": 5,
+        "fill-opacity": 0
+      },
+      "id": "00BEE6E15033AA25D1D7"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8024622017227,
+            -6.167001798343711,
+            0
+          ],
+          [
+            106.8033804551872,
+            -6.166993675237767,
+            0
+          ],
+          [
+            106.8033935505972,
+            -6.166786567322841,
+            0
+          ],
+          [
+            106.8031378179584,
+            -6.166790868331666,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "LM CIDENG KOTABAMBU SELATAN-ITC ROXY",
+        "styleUrl": "#inline93349001",
+        "styleHash": "-125659c9",
+        "styleMapHash": {
+          "normal": "#inline6613366501",
+          "highlight": "#inline631511490"
+        },
+        "stroke": "#ffff00",
+        "stroke-opacity": 1,
+        "stroke-width": 5,
+        "fill-opacity": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8081335398426,
+            -6.166355835284976,
+            0
+          ],
+          [
+            106.8077141614848,
+            -6.166393044668108,
+            0
+          ],
+          [
+            106.8076858011448,
+            -6.166668973131824,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "LM ITC ROXY-CIDENG HASYIM RELOCATION",
+        "styleUrl": "#inline93349001",
+        "styleHash": "-125659c9",
+        "styleMapHash": {
+          "normal": "#inline6613366501",
+          "highlight": "#inline631511490"
+        },
+        "stroke": "#ffff00",
+        "stroke-opacity": 1,
+        "stroke-width": 5,
+        "fill-opacity": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8303137200687,
+            -6.187024434529635,
+            0
+          ],
+          [
+            106.8303787427003,
+            -6.186997169411961,
+            0
+          ],
+          [
+            106.830517066829,
+            -6.186857539587262,
+            0
+          ],
+          [
+            106.8308216396844,
+            -6.186586581913579,
+            0
+          ],
+          [
+            106.8312899980957,
+            -6.18617049963623,
+            0
+          ],
+          [
+            106.8317801038649,
+            -6.185716007679657,
+            0
+          ],
+          [
+            106.8320357940856,
+            -6.185482924178728,
+            0
+          ],
+          [
+            106.8322220841878,
+            -6.185312158954164,
+            0
+          ],
+          [
+            106.8322787142281,
+            -6.185238723547642,
+            0
+          ],
+          [
+            106.8325787280761,
+            -6.185033190467843,
+            0
+          ],
+          [
+            106.8326443818282,
+            -6.184986670967922,
+            0
+          ],
+          [
+            106.832639875656,
+            -6.184965944182238,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "New BB P4.5",
+        "styleUrl": "#__managed_style_32DC2FCD5133AA432B90",
+        "styleHash": "-580da650",
+        "styleMapHash": {
+          "normal": "#failed3",
+          "highlight": "#failed0"
+        },
+        "stroke": "#aa00ff",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      },
+      "id": "022CDB397C33AA1DF541"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8131915954937,
+            -6.181193050507319,
+            0
+          ],
+          [
+            106.8132751935199,
+            -6.181591890074665,
+            0
+          ],
+          [
+            106.813320308135,
+            -6.182058993580912,
+            0
+          ],
+          [
+            106.8132777651136,
+            -6.182491332014642,
+            0
+          ],
+          [
+            106.8130852221447,
+            -6.182724239436709,
+            0
+          ],
+          [
+            106.8126716593827,
+            -6.183002145577319,
+            0
+          ],
+          [
+            106.8113497716901,
+            -6.184118461745128,
+            0
+          ],
+          [
+            106.8112114729606,
+            -6.184223209835437,
+            0
+          ],
+          [
+            106.8111420181986,
+            -6.184405248896105,
+            0
+          ],
+          [
+            106.8111903825802,
+            -6.184797619226567,
+            0
+          ],
+          [
+            106.8111289003642,
+            -6.184900011773026,
+            0
+          ],
+          [
+            106.8112022595992,
+            -6.185689561681667,
+            0
+          ],
+          [
+            106.8114824955376,
+            -6.188419105220471,
+            0
+          ],
+          [
+            106.8114849517461,
+            -6.188506320199316,
+            0
+          ],
+          [
+            106.8115683357194,
+            -6.188549651651054,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Relokasi RPA",
+        "styleUrl": "#msn_target1400",
+        "styleHash": "-75e598b6",
+        "styleMapHash": {
+          "normal": "#sn_target11002",
+          "highlight": "#sh_target110001"
+        },
+        "stroke": "#aaffff",
+        "stroke-opacity": 1,
+        "stroke-width": 5
+      },
+      "id": "0591A15B5631EECC4F7B"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8280734769274,
+            -6.204046128696876,
+            0
+          ],
+          [
+            106.8229510563806,
+            -6.202948987924802,
+            0
+          ],
+          [
+            106.8218654251413,
+            -6.202669784496695,
+            0
+          ],
+          [
+            106.8152699129907,
+            -6.201172211644804,
+            0
+          ],
+          [
+            106.8142715582925,
+            -6.198163089661997,
+            0
+          ],
+          [
+            106.8142410623184,
+            -6.197049988918585,
+            0
+          ],
+          [
+            106.8143605462131,
+            -6.194007007322108,
+            0
+          ],
+          [
+            106.8146175666525,
+            -6.192504477003961,
+            0
+          ],
+          [
+            106.8149132949736,
+            -6.190899821863374,
+            0
+          ],
+          [
+            106.8151603361794,
+            -6.189092575737746,
+            0
+          ],
+          [
+            106.8152660882942,
+            -6.188524883913164,
+            0
+          ],
+          [
+            106.8149545226501,
+            -6.188326230900696,
+            0
+          ],
+          [
+            106.8133557935058,
+            -6.188673025471783,
+            0
+          ],
+          [
+            106.8132936481,
+            -6.188453671111284,
+            0
+          ],
+          [
+            106.811472865076,
+            -6.18852886725898,
+            0
+          ],
+          [
+            106.8111292111058,
+            -6.184930521960332,
+            0
+          ],
+          [
+            106.8112410172676,
+            -6.184735387020225,
+            0
+          ],
+          [
+            106.811166154791,
+            -6.184390458049767,
+            0
+          ],
+          [
+            106.8112860857711,
+            -6.184199510001394,
+            0
+          ],
+          [
+            106.8130627000873,
+            -6.182739579564302,
+            0
+          ],
+          [
+            106.8133079410116,
+            -6.182442847392328,
+            0
+          ],
+          [
+            106.8133971941457,
+            -6.182087983058721,
+            0
+          ],
+          [
+            106.8133396591787,
+            -6.181794855062328,
+            0
+          ],
+          [
+            106.8131579427955,
+            -6.181189708463917,
+            0
+          ],
+          [
+            106.8118497566918,
+            -6.175729271083575,
+            0
+          ],
+          [
+            106.8100375613952,
+            -6.176184621563346,
+            0
+          ],
+          [
+            106.8091530367457,
+            -6.172943101002608,
+            0
+          ],
+          [
+            106.8087547091494,
+            -6.172080415229664,
+            0
+          ],
+          [
+            106.8085770982926,
+            -6.171531230301186,
+            0
+          ],
+          [
+            106.8108228215524,
+            -6.171300022065083,
+            0
+          ],
+          [
+            106.8105666757543,
+            -6.168747337918012,
+            0
+          ],
+          [
+            106.8104311148667,
+            -6.167018484649698,
+            0
+          ],
+          [
+            106.8097094474524,
+            -6.167087764233505,
+            0
+          ],
+          [
+            106.8095860435047,
+            -6.166505858297469,
+            0
+          ],
+          [
+            106.8091746828025,
+            -6.166583231493476,
+            0
+          ],
+          [
+            106.8092363841863,
+            -6.166855074998378,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BB Ex",
+        "styleUrl": "#__managed_style_013974721E33AA4610FD1",
+        "styleHash": "5c68ca4f",
+        "styleMapHash": {
+          "normal": "#failed4",
+          "highlight": "#failed6"
+        },
+        "stroke": "#ff00ff",
+        "stroke-opacity": 1,
+        "stroke-width": 5
+      },
+      "id": "083EA696F333AA4A2FB2"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8469335761056,
+            -6.182754966409917,
+            0
+          ],
+          [
+            106.8454258308727,
+            -6.183156453450009,
+            0
+          ],
+          [
+            106.8439013497811,
+            -6.183985640809942,
+            0
+          ],
+          [
+            106.8432913181219,
+            -6.182895528055004,
+            0
+          ],
+          [
+            106.8429266892152,
+            -6.183045994442872,
+            0
+          ],
+          [
+            106.8426983231996,
+            -6.182215084065886,
+            0
+          ],
+          [
+            106.8405062170476,
+            -6.182683238172445,
+            0
+          ],
+          [
+            106.8399056684478,
+            -6.180666115006232,
+            0
+          ],
+          [
+            106.8390228054171,
+            -6.181225933095996,
+            0
+          ],
+          [
+            106.8387222230357,
+            -6.180877872510923,
+            0
+          ],
+          [
+            106.8367817540986,
+            -6.181450079269232,
+            0
+          ],
+          [
+            106.8342749538959,
+            -6.182352576945168,
+            0
+          ],
+          [
+            106.8336626958128,
+            -6.182461734430752,
+            0
+          ],
+          [
+            106.8335197725066,
+            -6.182365422653948,
+            0
+          ],
+          [
+            106.8330411618841,
+            -6.181876123101258,
+            0
+          ],
+          [
+            106.8328726427353,
+            -6.182026217483473,
+            0
+          ],
+          [
+            106.8330732146864,
+            -6.182310654870006,
+            0
+          ],
+          [
+            106.8332052750531,
+            -6.182745193083251,
+            0
+          ],
+          [
+            106.8322891637839,
+            -6.182814341906941,
+            0
+          ],
+          [
+            106.8325643083923,
+            -6.185027616762815,
+            0
+          ],
+          [
+            106.8326541732566,
+            -6.184940985368176,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Untitled path",
+        "styleUrl": "#__managed_style_013974721E33AA4610FD0",
+        "styleHash": "38e607bd",
+        "styleMapHash": {
+          "normal": "#failed",
+          "highlight": "#failed2"
+        },
+        "stroke": "#aa00ff",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      },
+      "id": "0BB791522633AA4B9E1B"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8143711241008,
+            -6.194029892514358,
+            0
+          ],
+          [
+            106.8145797529584,
+            -6.194027415996763,
+            0
+          ],
+          [
+            106.8145709328998,
+            -6.194163976712298,
+            0
+          ],
+          [
+            106.814837516258,
+            -6.194189095142681,
+            0
+          ],
+          [
+            106.814858655373,
+            -6.194084569105433,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Untitled path",
+        "styleUrl": "#__managed_style_013974721E33AA4610FD",
+        "styleMapHash": {
+          "normal": "#__managed_style_140F02EA0A33AA4610FD",
+          "highlight": "#__managed_style_2A7CA23FC433AA4610FD"
+        }
+      },
+      "id": "0F16E3F5A133AAD23DF0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8149755850216,
+            -6.190500429470579,
+            0
+          ],
+          [
+            106.8148043088233,
+            -6.191570071872819,
+            0
+          ],
+          [
+            106.8145872797777,
+            -6.19264232867331,
+            0
+          ],
+          [
+            106.8143706048714,
+            -6.194026758809533,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "LM JJTC",
+        "styleUrl": "#__managed_style_0518AE8F1833AAD3AEF6",
+        "styleMapHash": {
+          "normal": "#__managed_style_17BD18FEA033AAD3AEF6",
+          "highlight": "#__managed_style_271496DEE333AAD3AEF6"
+        }
+      },
+      "id": "066BD3EC8D33AAD3A0B1"
+    }
+  ]
+}

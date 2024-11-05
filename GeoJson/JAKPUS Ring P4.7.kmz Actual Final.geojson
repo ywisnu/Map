@@ -1,0 +1,2386 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8183885495519,
+          -6.160349060452668,
+          0
+        ]
+      },
+      "properties": {
+        "name": "MILLENIUM CAFE GAJAH MADA",
+        "styleUrl": "#msn_donut26",
+        "styleHash": "-656bbe0",
+        "styleMapHash": {
+          "normal": "#sn_donut32",
+          "highlight": "#sh_donut24"
+        },
+        "description": "<br><br><br>\n    <table border=\"1\" padding=\"0\">\n      <tr><td>Tower_ID</td><td>JAW-JK-TNA-2691</td></tr>\n      <tr><td>Tower_Name</td><td>MILLENIUM CAFE GAJAH MADA</td></tr>\n      <tr><td>Province</td><td>DKI JAKARTA</td></tr>\n      <tr><td>Kabupaten</td><td>KOTA JAKARTA PUSAT</td></tr>\n      <tr><td>Long__Dec_</td><td>106.8179861</td></tr>\n      <tr><td>Lat__Dec_</td><td>-6.160355556</td></tr>\n      <tr><td>Tower_Type</td><td>PICO</td></tr>\n      <tr><td>TP</td><td>PT DHOST TELEKOMUNIKASI NUSANTARA</td></tr>\n      <tr><td>Subrod_Current</td><td>0</td></tr>\n      <tr><td>Priority_Site</td><td>P1</td></tr>\n      <tr><td>Priority_City</td><td>P1 City</td></tr>\n      <tr><td>FLP</td><td>CMI</td></tr>\n      <tr><td>Cek___Recheck</td><td>Fiberisasi H1 2023</td></tr>\n      <tr><td>Priority_Site_2</td><td>#N/A</td></tr>",
+        "stroke-width": 0.8
+      },
+      "id": "061BEB4BA531F73B2EE7"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.819772,
+          -6.160489,
+          0
+        ]
+      },
+      "properties": {
+        "name": "HOTEL GRAND MERCURE HAYAM WURUK",
+        "styleUrl": "#m_ylw-pushpin2510002",
+        "styleHash": "-bb2b658",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin1402",
+          "highlight": "#s_ylw-pushpin_hl5146"
+        },
+        "description": "<br><br><br>\n    <table border=\"1\" padding=\"0\">\n      <tr><td>Tower_ID</td><td>JAW-JK-GGP-1110</td></tr>\n      <tr><td>Tower_Name</td><td>HOTEL GRAND MERCURE HAYAM WURUK</td></tr>\n      <tr><td>Province</td><td>DKI JAKARTA</td></tr>\n      <tr><td>Kabupaten</td><td>KOTA JAKARTA PUSAT</td></tr>\n      <tr><td>Long__Dec_</td><td>106.8197722</td></tr>\n      <tr><td>Lat__Dec_</td><td>-6.160488889</td></tr>\n      <tr><td>Tower_Type</td><td>PICO</td></tr>\n      <tr><td>TP</td><td>PT INFRASTRUKTUR BISNIS SEJAHTERA</td></tr>\n      <tr><td>Subrod_Current</td><td>0</td></tr>\n      <tr><td>Priority_Site</td><td>P1</td></tr>\n      <tr><td>Priority_City</td><td>P1 City</td></tr>\n      <tr><td>FLP</td><td>CMI</td></tr>\n      <tr><td>Cek___Recheck</td><td>Fiber Plan H2 2022</td></tr>\n      <tr><td>Priority_Site_2</td><td>Non Priority</td></tr>",
+        "stroke-width": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.826139,
+          -6.164556000000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "HOTEL LUMINOR",
+        "styleUrl": "#m_ylw-pushpin2510002",
+        "styleHash": "-bb2b658",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin1402",
+          "highlight": "#s_ylw-pushpin_hl5146"
+        },
+        "description": "<br><br><br>\n    <table border=\"1\" padding=\"0\">\n      <tr><td>Tower_ID</td><td>JAW-JK-TNA-0396</td></tr>\n      <tr><td>Tower_Name</td><td>HOTEL LUMINOR</td></tr>\n      <tr><td>Province</td><td>DKI JAKARTA</td></tr>\n      <tr><td>Kabupaten</td><td>KOTA JAKARTA PUSAT</td></tr>\n      <tr><td>Long__Dec_</td><td>106.8261389</td></tr>\n      <tr><td>Lat__Dec_</td><td>-6.164555556</td></tr>\n      <tr><td>Tower_Type</td><td>PICO</td></tr>\n      <tr><td>TP</td><td>PT DHOST TELEKOMUNIKASI NUSANTARA</td></tr>\n      <tr><td>Subrod_Current</td><td>0</td></tr>\n      <tr><td>Priority_Site</td><td>P1</td></tr>\n      <tr><td>Priority_City</td><td>P1 City</td></tr>\n      <tr><td>FLP</td><td>CMI</td></tr>\n      <tr><td>Cek___Recheck</td><td>Fiber Plan H2 2022</td></tr>\n      <tr><td>Priority_Site_2</td><td>Non Priority</td></tr>",
+        "stroke-width": 0.8
+      },
+      "id": "0EBB1339AB31CB2110D8"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.819306,
+          -6.163108,
+          0
+        ]
+      },
+      "properties": {
+        "name": "HOTEL MALIOBORO",
+        "styleUrl": "#m_ylw-pushpin2510002",
+        "styleHash": "-bb2b658",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin1402",
+          "highlight": "#s_ylw-pushpin_hl5146"
+        },
+        "description": "<br><br><br>\n    <table border=\"1\" padding=\"0\">\n      <tr><td>Tower_ID</td><td>JAW-JK-TNA-2710</td></tr>\n      <tr><td>Tower_Name</td><td>HOTEL MALIOBORO</td></tr>\n      <tr><td>Province</td><td>DKI JAKARTA</td></tr>\n      <tr><td>Kabupaten</td><td>KOTA JAKARTA PUSAT</td></tr>\n      <tr><td>Long__Dec_</td><td>106.8193056</td></tr>\n      <tr><td>Lat__Dec_</td><td>-6.163108333</td></tr>\n      <tr><td>Tower_Type</td><td>PICO</td></tr>\n      <tr><td>TP</td><td>PT MAC SARANA DJAYA</td></tr>\n      <tr><td>Subrod_Current</td><td>0</td></tr>\n      <tr><td>Priority_Site</td><td>P1</td></tr>\n      <tr><td>Priority_City</td><td>P1 City</td></tr>\n      <tr><td>FLP</td><td>CMI</td></tr>\n      <tr><td>Cek___Recheck</td><td>Fiberisasi H1 2023</td></tr>\n      <tr><td>Priority_Site_2</td><td>#N/A</td></tr>",
+        "stroke-width": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.817086,
+          -6.176311,
+          0
+        ]
+      },
+      "properties": {
+        "name": "GHJ SUITE",
+        "styleUrl": "#m_ylw-pushpin2510002",
+        "styleHash": "-bb2b658",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin1402",
+          "highlight": "#s_ylw-pushpin_hl5146"
+        },
+        "description": "<br><br><br>\n    <table border=\"1\" padding=\"0\">\n      <tr><td>Tower_ID</td><td>JAW-JK-TNA-0418</td></tr>\n      <tr><td>Tower_Name</td><td>GHJ SUITE</td></tr>\n      <tr><td>Province</td><td>DKI JAKARTA</td></tr>\n      <tr><td>Kabupaten</td><td>KOTA JAKARTA PUSAT</td></tr>\n      <tr><td>Long__Dec_</td><td>106.8170861</td></tr>\n      <tr><td>Lat__Dec_</td><td>-6.176311111</td></tr>\n      <tr><td>Tower_Type</td><td>PICO</td></tr>\n      <tr><td>TP</td><td>PT DHOST TELEKOMUNIKASI NUSANTARA</td></tr>\n      <tr><td>Subrod_Current</td><td>0</td></tr>\n      <tr><td>Priority_Site</td><td>P1</td></tr>\n      <tr><td>Priority_City</td><td>P1 City</td></tr>\n      <tr><td>FLP</td><td>CMI</td></tr>\n      <tr><td>Cek___Recheck</td><td>Fiber Plan H2 2022</td></tr>\n      <tr><td>Priority_Site_2</td><td>Non Priority</td></tr>",
+        "stroke-width": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82,
+          -6.1752,
+          0
+        ]
+      },
+      "properties": {
+        "name": "WISMA BSG",
+        "styleUrl": "#m_ylw-pushpin2510002",
+        "styleHash": "-bb2b658",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin1402",
+          "highlight": "#s_ylw-pushpin_hl5146"
+        },
+        "description": "<br><br><br>\n    <table border=\"1\" padding=\"0\">\n      <tr><td>Tower_ID</td><td>JAW-JK-TNA-2720</td></tr>\n      <tr><td>Tower_Name</td><td>WISMA BSG</td></tr>\n      <tr><td>Province</td><td>DKI JAKARTA</td></tr>\n      <tr><td>Kabupaten</td><td>KOTA JAKARTA PUSAT</td></tr>\n      <tr><td>Long__Dec_</td><td>106.82</td></tr>\n      <tr><td>Lat__Dec_</td><td>-6.1752</td></tr>\n      <tr><td>Tower_Type</td><td>PICO</td></tr>\n      <tr><td>TP</td><td>PT DHOST TELEKOMUNIKASI NUSANTARA</td></tr>\n      <tr><td>Subrod_Current</td><td>0</td></tr>\n      <tr><td>Priority_Site</td><td>P1</td></tr>\n      <tr><td>Priority_City</td><td>P1 City</td></tr>\n      <tr><td>FLP</td><td>CMI</td></tr>\n      <tr><td>Cek___Recheck</td><td>Fiber Plan H2 2022</td></tr>\n      <tr><td>Priority_Site_2</td><td>Non Priority</td></tr>",
+        "stroke-width": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.821,
+          -6.179649999999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "DEPPARPOSTELA",
+        "styleUrl": "#m_ylw-pushpin2510002",
+        "styleHash": "-bb2b658",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin1402",
+          "highlight": "#s_ylw-pushpin_hl5146"
+        },
+        "description": "<br><br><br>\n    <table border=\"1\" padding=\"0\">\n      <tr><td>Tower_ID</td><td>JAW-JK-TNA-2763</td></tr>\n      <tr><td>Tower_Name</td><td>DEPPARPOSTELA</td></tr>\n      <tr><td>Province</td><td>DKI JAKARTA</td></tr>\n      <tr><td>Kabupaten</td><td>KOTA JAKARTA PUSAT</td></tr>\n      <tr><td>Long__Dec_</td><td>106.821</td></tr>\n      <tr><td>Lat__Dec_</td><td>-6.17965</td></tr>\n      <tr><td>Tower_Type</td><td>PICO</td></tr>\n      <tr><td>TP</td><td>PT XL Axiata</td></tr>\n      <tr><td>Subrod_Current</td><td>0</td></tr>\n      <tr><td>Priority_Site</td><td>P1</td></tr>\n      <tr><td>Priority_City</td><td>P1 City</td></tr>\n      <tr><td>FLP</td><td>CMI</td></tr>\n      <tr><td>Cek___Recheck</td><td>Fiber Plan H2 2022</td></tr>\n      <tr><td>Priority_Site_2</td><td>Non Priority</td></tr>",
+        "stroke-width": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.816556,
+          -6.183360999999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "APART BOULEVARD OFFICE",
+        "styleUrl": "#m_ylw-pushpin2510002",
+        "styleHash": "-bb2b658",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin1402",
+          "highlight": "#s_ylw-pushpin_hl5146"
+        },
+        "description": "<br><br><br>\n    <table border=\"1\" padding=\"0\">\n      <tr><td>Tower_ID</td><td>JAW-JK-TNA-2676</td></tr>\n      <tr><td>Tower_Name</td><td>APART BOULEVARD OFFICE</td></tr>\n      <tr><td>Province</td><td>DKI JAKARTA</td></tr>\n      <tr><td>Kabupaten</td><td>KOTA JAKARTA PUSAT</td></tr>\n      <tr><td>Long__Dec_</td><td>106.8165556</td></tr>\n      <tr><td>Lat__Dec_</td><td>-6.183361111</td></tr>\n      <tr><td>Tower_Type</td><td>PICO</td></tr>\n      <tr><td>TP</td><td>PT MAC SARANA DJAYA</td></tr>\n      <tr><td>Subrod_Current</td><td>0</td></tr>\n      <tr><td>Priority_Site</td><td>P1</td></tr>\n      <tr><td>Priority_City</td><td>P1 City</td></tr>\n      <tr><td>FLP</td><td>CMI</td></tr>\n      <tr><td>Cek___Recheck</td><td>Fiber Plan H2 2022</td></tr>\n      <tr><td>Priority_Site_2</td><td>Non Priority</td></tr>",
+        "stroke-width": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.822528,
+          -6.183833,
+          0
+        ]
+      },
+      "properties": {
+        "name": "DEPARTEMEN AGAMA",
+        "styleUrl": "#m_ylw-pushpin2510002",
+        "styleHash": "-bb2b658",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin1402",
+          "highlight": "#s_ylw-pushpin_hl5146"
+        },
+        "description": "<br><br><br>\n    <table border=\"1\" padding=\"0\">\n      <tr><td>Tower_ID</td><td>JAW-JK-TNA-2766</td></tr>\n      <tr><td>Tower_Name</td><td>DEPARTEMEN AGAMA</td></tr>\n      <tr><td>Province</td><td>DKI JAKARTA</td></tr>\n      <tr><td>Kabupaten</td><td>KOTA JAKARTA PUSAT</td></tr>\n      <tr><td>Long__Dec_</td><td>106.8225278</td></tr>\n      <tr><td>Lat__Dec_</td><td>-6.183833333</td></tr>\n      <tr><td>Tower_Type</td><td>PICO</td></tr>\n      <tr><td>TP</td><td>PT INFRASTRUKTUR BISNIS SEJAHTERA</td></tr>\n      <tr><td>Subrod_Current</td><td>0</td></tr>\n      <tr><td>Priority_Site</td><td>P1</td></tr>\n      <tr><td>Priority_City</td><td>P1 City</td></tr>\n      <tr><td>FLP</td><td>CMI</td></tr>\n      <tr><td>Cek___Recheck</td><td>Fiber Plan H2 2022</td></tr>\n      <tr><td>Priority_Site_2</td><td>Non Priority</td></tr>",
+        "stroke-width": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8222333680171,
+          -6.18557249149272,
+          0
+        ]
+      },
+      "properties": {
+        "name": "MENARA THAMRIN",
+        "styleUrl": "#msn_donut24111",
+        "styleHash": "-5da8d1eb",
+        "styleMapHash": {
+          "normal": "#sn_donut51112",
+          "highlight": "#sh_donut15301"
+        },
+        "description": "<br><br><br>\n    <table border=\"1\" padding=\"0\">\n      <tr><td>Tower_ID</td><td>JAW-JK-TNA-2756</td></tr>\n      <tr><td>Tower_Name</td><td>MENARA THAMRIN</td></tr>\n      <tr><td>Province</td><td>DKI JAKARTA</td></tr>\n      <tr><td>Kabupaten</td><td>KOTA JAKARTA PUSAT</td></tr>\n      <tr><td>Long__Dec_</td><td>106.822</td></tr>\n      <tr><td>Lat__Dec_</td><td>-6.185638889</td></tr>\n      <tr><td>Tower_Type</td><td>PICO</td></tr>\n      <tr><td>TP</td><td>PT DHOST TELEKOMUNIKASI NUSANTARA</td></tr>\n      <tr><td>Subrod_Current</td><td>0</td></tr>\n      <tr><td>Priority_Site</td><td>P1</td></tr>\n      <tr><td>Priority_City</td><td>P1 City</td></tr>\n      <tr><td>FLP</td><td>CMI</td></tr>\n      <tr><td>Cek___Recheck</td><td>Fiber Plan H2 2022</td></tr>\n      <tr><td>Priority_Site_2</td><td>Non Priority</td></tr>",
+        "stroke-width": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.822592,
+          -6.186494,
+          0
+        ]
+      },
+      "properties": {
+        "name": "GEDUNG JAYA",
+        "styleUrl": "#m_ylw-pushpin2510002",
+        "styleHash": "-bb2b658",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin1402",
+          "highlight": "#s_ylw-pushpin_hl5146"
+        },
+        "description": "<br><br><br>\n    <table border=\"1\" padding=\"0\">\n      <tr><td>Tower_ID</td><td>JAW-JK-TNA-2769</td></tr>\n      <tr><td>Tower_Name</td><td>GEDUNG JAYA</td></tr>\n      <tr><td>Province</td><td>DKI JAKARTA</td></tr>\n      <tr><td>Kabupaten</td><td>KOTA JAKARTA PUSAT</td></tr>\n      <tr><td>Long__Dec_</td><td>106.8225917</td></tr>\n      <tr><td>Lat__Dec_</td><td>-6.186494444</td></tr>\n      <tr><td>Tower_Type</td><td>PICO</td></tr>\n      <tr><td>TP</td><td>PT DHOST TELEKOMUNIKASI NUSANTARA</td></tr>\n      <tr><td>Subrod_Current</td><td>0</td></tr>\n      <tr><td>Priority_Site</td><td>P1</td></tr>\n      <tr><td>Priority_City</td><td>P1 City</td></tr>\n      <tr><td>FLP</td><td>CMI</td></tr>\n      <tr><td>Cek___Recheck</td><td>Fiber Plan H2 2022</td></tr>\n      <tr><td>Priority_Site_2</td><td>Non Priority</td></tr>",
+        "stroke-width": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.822611,
+          -6.188444,
+          0
+        ]
+      },
+      "properties": {
+        "name": "GEDUNG SURYA",
+        "styleUrl": "#msn_donut24112",
+        "styleHash": "1635d656",
+        "styleMapHash": {
+          "normal": "#sn_donut51113",
+          "highlight": "#sh_donut15302"
+        },
+        "description": "<br><br><br>\n    <table border=\"1\" padding=\"0\">\n      <tr><td>Tower_ID</td><td>JAW-JK-TNA-2772</td></tr>\n      <tr><td>Tower_Name</td><td>GEDUNG SURYA</td></tr>\n      <tr><td>Province</td><td>DKI JAKARTA</td></tr>\n      <tr><td>Kabupaten</td><td>KOTA JAKARTA PUSAT</td></tr>\n      <tr><td>Long__Dec_</td><td>106.8226111</td></tr>\n      <tr><td>Lat__Dec_</td><td>-6.188444444</td></tr>\n      <tr><td>Tower_Type</td><td>PICO</td></tr>\n      <tr><td>TP</td><td>PT DHOST TELEKOMUNIKASI NUSANTARA</td></tr>\n      <tr><td>Subrod_Current</td><td>>0</td></tr>\n      <tr><td>Priority_Site</td><td>P1</td></tr>\n      <tr><td>Priority_City</td><td>P1 City</td></tr>\n      <tr><td>FLP</td><td>CMI</td></tr>\n      <tr><td>Cek___Recheck</td><td>Fiber Plan H2 2022</td></tr>\n      <tr><td>Priority_Site_2</td><td>Non Priority</td></tr>",
+        "stroke-width": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8219721755679,
+          -6.192089984721342,
+          0
+        ]
+      },
+      "properties": {
+        "name": "PLAZA INDONESIA",
+        "styleUrl": "#msn_donut25",
+        "styleHash": "747ecc50",
+        "styleMapHash": {
+          "normal": "#sn_donut320",
+          "highlight": "#sh_donut240"
+        },
+        "description": "<br><br><br>\n    <table border=\"1\" padding=\"0\">\n      <tr><td>Tower_ID</td><td>JAW-JK-TNA-2738</td></tr>\n      <tr><td>Tower_Name</td><td>PLAZA INDONESIA</td></tr>\n      <tr><td>Province</td><td>DKI JAKARTA</td></tr>\n      <tr><td>Kabupaten</td><td>KOTA JAKARTA PUSAT</td></tr>\n      <tr><td>Long__Dec_</td><td>106.8209667</td></tr>\n      <tr><td>Lat__Dec_</td><td>-6.192472222</td></tr>\n      <tr><td>Tower_Type</td><td>PICO</td></tr>\n      <tr><td>TP</td><td>PT INFRASTRUKTUR BISNIS SEJAHTERA</td></tr>\n      <tr><td>Subrod_Current</td><td>>0</td></tr>\n      <tr><td>Priority_Site</td><td>P1</td></tr>\n      <tr><td>Priority_City</td><td>P1 City</td></tr>\n      <tr><td>FLP</td><td>CMI</td></tr>\n      <tr><td>Cek___Recheck</td><td>Fiber Plan H2 2022</td></tr>\n      <tr><td>Priority_Site_2</td><td>Non Priority</td></tr>",
+        "stroke-width": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8226440997997,
+          -6.198122928772012,
+          0
+        ]
+      },
+      "properties": {
+        "name": "GEDUNG EXIM MELATI",
+        "styleUrl": "#msn_donut25",
+        "styleHash": "747ecc50",
+        "styleMapHash": {
+          "normal": "#sn_donut320",
+          "highlight": "#sh_donut240"
+        },
+        "description": "<br><br><br>\n    <table border=\"1\" padding=\"0\">\n      <tr><td>Tower_ID</td><td>JAW-JK-TNA-2774</td></tr>\n      <tr><td>Tower_Name</td><td>GEDUNG EXIM MELATI</td></tr>\n      <tr><td>Province</td><td>DKI JAKARTA</td></tr>\n      <tr><td>Kabupaten</td><td>KOTA JAKARTA PUSAT</td></tr>\n      <tr><td>Long__Dec_</td><td>106.8226667</td></tr>\n      <tr><td>Lat__Dec_</td><td>-6.198527778</td></tr>\n      <tr><td>Tower_Type</td><td>PICO</td></tr>\n      <tr><td>TP</td><td>PT MAC SARANA DJAYA</td></tr>\n      <tr><td>Subrod_Current</td><td>0</td></tr>\n      <tr><td>Priority_Site</td><td>P1</td></tr>\n      <tr><td>Priority_City</td><td>P1 City</td></tr>\n      <tr><td>FLP</td><td>CMI</td></tr>\n      <tr><td>Cek___Recheck</td><td>Fiber Plan H2 2022</td></tr>\n      <tr><td>Priority_Site_2</td><td>Non Priority</td></tr>",
+        "stroke-width": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.820419,
+          -6.195058,
+          0
+        ]
+      },
+      "properties": {
+        "name": "3G_GRAND_INDONESIA_APARTMENT_EASTMALL",
+        "styleUrl": "#m_ylw-pushpin2510002",
+        "styleHash": "-bb2b658",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin1402",
+          "highlight": "#s_ylw-pushpin_hl5146"
+        },
+        "description": "<br><br><br>\n    <table border=\"1\" padding=\"0\">\n      <tr><td>Tower_ID</td><td>JAW-JK-TNA-2730</td></tr>\n      <tr><td>Tower_Name</td><td>3G_GRAND_INDONESIA_APARTMENT_EASTMALL</td></tr>\n      <tr><td>Province</td><td>DKI JAKARTA</td></tr>\n      <tr><td>Kabupaten</td><td>KOTA JAKARTA PUSAT</td></tr>\n      <tr><td>Long__Dec_</td><td>106.8204194</td></tr>\n      <tr><td>Lat__Dec_</td><td>-6.195058333</td></tr>\n      <tr><td>Tower_Type</td><td>PICO</td></tr>\n      <tr><td>TP</td><td>PT IFORTE SOLUSI INFOTEK</td></tr>\n      <tr><td>Subrod_Current</td><td>0</td></tr>\n      <tr><td>Priority_Site</td><td>P1</td></tr>\n      <tr><td>Priority_City</td><td>P1 City</td></tr>\n      <tr><td>FLP</td><td>CMI</td></tr>\n      <tr><td>Cek___Recheck</td><td>Fiber Plan H2 2022</td></tr>\n      <tr><td>Priority_Site_2</td><td>Non Priority</td></tr>",
+        "stroke-width": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81855,
+          -6.194789,
+          0
+        ]
+      },
+      "properties": {
+        "name": "HOTEL ASCOT",
+        "styleUrl": "#m_ylw-pushpin2510002",
+        "styleHash": "-bb2b658",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin1402",
+          "highlight": "#s_ylw-pushpin_hl5146"
+        },
+        "description": "<br><br><br>\n    <table border=\"1\" padding=\"0\">\n      <tr><td>Tower_ID</td><td>JAW-JK-TNA-2704</td></tr>\n      <tr><td>Tower_Name</td><td>HOTEL ASCOT</td></tr>\n      <tr><td>Province</td><td>DKI JAKARTA</td></tr>\n      <tr><td>Kabupaten</td><td>KOTA JAKARTA PUSAT</td></tr>\n      <tr><td>Long__Dec_</td><td>106.81855</td></tr>\n      <tr><td>Lat__Dec_</td><td>-6.194788889</td></tr>\n      <tr><td>Tower_Type</td><td>PICO</td></tr>\n      <tr><td>TP</td><td>PT DHOST TELEKOMUNIKASI NUSANTARA</td></tr>\n      <tr><td>Subrod_Current</td><td>0</td></tr>\n      <tr><td>Priority_Site</td><td>P1</td></tr>\n      <tr><td>Priority_City</td><td>P1 City</td></tr>\n      <tr><td>FLP</td><td>CMI</td></tr>\n      <tr><td>Cek___Recheck</td><td>Fiber Plan H2 2022</td></tr>\n      <tr><td>Priority_Site_2</td><td>Non Priority</td></tr>",
+        "stroke-width": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.809267344727,
+          -6.166803657690592,
+          0
+        ]
+      },
+      "properties": {
+        "name": "HUT Roxy",
+        "styleUrl": "#msn_download2300022",
+        "styleHash": "-577dec73",
+        "styleMapHash": {
+          "normal": "#sn_download190002",
+          "highlight": "#sh_download2300022"
+        },
+        "Tower_ID_A": "JAW-JK-TNA-3241",
+        "Site_Name_A": "HUT Roxy",
+        "Long": "106.808",
+        "Lat": "-6.16642"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8461009983752,
+          -6.211501776669857,
+          0
+        ]
+      },
+      "properties": {
+        "name": "SN Manggarai",
+        "styleUrl": "#msn_Icon KML XL241",
+        "styleHash": "-4ba02cdc",
+        "styleMapHash": {
+          "normal": "#sn_Icon KML XL2",
+          "highlight": "#sh_Icon KML XL2111"
+        },
+        "description": "JAW-JK-KYB-0069\n-6.211661\n106.846189",
+        "stroke-width": 0.8
+      },
+      "id": "018AFD105E33AB38E367"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.820116362654,
+            -6.163384635778907,
+            0
+          ],
+          [
+            106.8200471386075,
+            -6.163032695919687,
+            0
+          ],
+          [
+            106.8214611300085,
+            -6.162784090461507,
+            0
+          ],
+          [
+            106.8216011788352,
+            -6.163597102176452,
+            0
+          ],
+          [
+            106.8230452238913,
+            -6.163403091243397,
+            0
+          ],
+          [
+            106.8237501974335,
+            -6.163338258670937,
+            0
+          ],
+          [
+            106.8247658125218,
+            -6.163156929398652,
+            0
+          ],
+          [
+            106.8237508394884,
+            -6.163334862366686,
+            0
+          ],
+          [
+            106.8247635733662,
+            -6.163160045966497,
+            0
+          ],
+          [
+            106.8251235297886,
+            -6.163103483918392,
+            0
+          ],
+          [
+            106.8265831833556,
+            -6.162894886662246,
+            0
+          ],
+          [
+            106.8266432514562,
+            -6.164208412658643,
+            0
+          ],
+          [
+            106.826509133935,
+            -6.164315312517738,
+            0
+          ],
+          [
+            106.8265027338259,
+            -6.164586326712183,
+            0
+          ],
+          [
+            106.8264921723884,
+            -6.164680111641784,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "LM HOTEL GRAND MERCURE HAYAM WURUK-HOTEL LUMINOR",
+        "styleUrl": "#inline9334391",
+        "styleHash": "28a122cc",
+        "styleMapHash": {
+          "normal": "#inline661336171",
+          "highlight": "#inline631511111"
+        },
+        "description": "arial 1241, burial 285",
+        "stroke": "#55ff00",
+        "stroke-opacity": 1,
+        "stroke-width": 3,
+        "fill-opacity": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8196340433399,
+            -6.163473416659694,
+            0
+          ],
+          [
+            106.8195526976805,
+            -6.16319863850512,
+            0
+          ],
+          [
+            106.8190517744354,
+            -6.163283171376093,
+            0
+          ],
+          [
+            106.8189810147659,
+            -6.16307299719816,
+            0
+          ],
+          [
+            106.8192297771959,
+            -6.163025306638572,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "LM HOTEL LUMINOR-HOTEL MALIOBORO",
+        "styleUrl": "#inline9334701",
+        "styleHash": "-237aee62",
+        "styleMapHash": {
+          "normal": "#inline661336801",
+          "highlight": "#inline631511421"
+        },
+        "description": "63 m arial, 325 meter burial",
+        "stroke": "#55ff00",
+        "stroke-opacity": 1,
+        "stroke-width": 3,
+        "fill-opacity": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8196617057915,
+            -6.176932445839601,
+            0
+          ],
+          [
+            106.8199740279925,
+            -6.176355218189117,
+            0
+          ],
+          [
+            106.8202167767383,
+            -6.17589032134202,
+            0
+          ],
+          [
+            106.8202456722416,
+            -6.175758673794121,
+            0
+          ],
+          [
+            106.8203384733656,
+            -6.175729435655065,
+            0
+          ],
+          [
+            106.8205681521286,
+            -6.175412488831282,
+            0
+          ],
+          [
+            106.8195788178616,
+            -6.175153170984743,
+            0
+          ],
+          [
+            106.8197000102071,
+            -6.174781929472755,
+            0
+          ],
+          [
+            106.8202073592406,
+            -6.175165105957158,
+            0
+          ],
+          [
+            106.820011406567,
+            -6.175170540722726,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "LM GHJ SUITE-WISMA BSG",
+        "styleUrl": "#inline9334451",
+        "styleHash": "-21b4c6ad",
+        "styleMapHash": {
+          "normal": "#inline661336531",
+          "highlight": "#inline631511341"
+        },
+        "description": "arial 210 meter, burial 275 meter",
+        "stroke": "#55ff7f",
+        "stroke-opacity": 1,
+        "stroke-width": 3,
+        "fill-opacity": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8224724031372,
+            -6.186868556568619,
+            0
+          ],
+          [
+            106.822590220197,
+            -6.186853923721042,
+            0
+          ],
+          [
+            106.8226047523958,
+            -6.186458531385081,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "LM DEPARTEMEN AGAMA-MENARA THAMRIN",
+        "styleUrl": "#inline933430",
+        "styleHash": "-5fac5c11",
+        "styleMapHash": {
+          "normal": "#inline661336190",
+          "highlight": "#inline63151195"
+        },
+        "stroke": "#55ff00",
+        "stroke-opacity": 1,
+        "stroke-width": 3,
+        "fill-opacity": 0
+      },
+      "id": "04CF060A2A33AB47DECB"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8215359693067,
+            -6.18569220320013,
+            0
+          ],
+          [
+            106.8217017762685,
+            -6.18646544622515,
+            0
+          ],
+          [
+            106.8218118709621,
+            -6.186882695494919,
+            0
+          ],
+          [
+            106.8224898375465,
+            -6.18686473546283,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "LM DEPARTEMEN AGAMA-MENARA THAMRIN",
+        "styleUrl": "#inline9334300",
+        "styleHash": "46e01ded",
+        "styleMapHash": {
+          "normal": "#inline6613361900",
+          "highlight": "#inline6315119"
+        },
+        "stroke": "#55ff00",
+        "stroke-opacity": 1,
+        "stroke-width": 3,
+        "fill-opacity": 0
+      },
+      "id": "07F46143A93170B1EDF0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.821437107902,
+            -6.187070335187269,
+            0
+          ],
+          [
+            106.8214359223874,
+            -6.187027579310652,
+            0
+          ],
+          [
+            106.8214306967263,
+            -6.186899471580189,
+            0
+          ],
+          [
+            106.8218183205809,
+            -6.186893747772429,
+            0
+          ],
+          [
+            106.8220068603461,
+            -6.186884871699052,
+            0
+          ],
+          [
+            106.8222066532252,
+            -6.186883790375584,
+            0
+          ],
+          [
+            106.8224753390208,
+            -6.186865470065435,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "LM GEDUNG JAYA-GEDUNG SURYA",
+        "styleUrl": "#inline93345910",
+        "styleHash": "-56e59acf",
+        "styleMapHash": {
+          "normal": "#inline6613364910",
+          "highlight": "#inline6315113010"
+        },
+        "stroke": "#55ff00",
+        "stroke-opacity": 1,
+        "stroke-width": 3,
+        "fill-opacity": 0
+      },
+      "id": "0F83C0C3B733AB471577"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8224753390208,
+            -6.186865470065435,
+            0
+          ],
+          [
+            106.8224603772002,
+            -6.187079222516834,
+            0
+          ],
+          [
+            106.8223473719068,
+            -6.187091519229855,
+            0
+          ],
+          [
+            106.8222842557055,
+            -6.187465038533246,
+            0
+          ],
+          [
+            106.8223209768249,
+            -6.187885564642468,
+            0
+          ],
+          [
+            106.8226311049936,
+            -6.187875981439212,
+            0
+          ],
+          [
+            106.8226160909999,
+            -6.188435727621093,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "LM GEDUNG JAYA-GEDUNG SURYA",
+        "styleUrl": "#inline9334591",
+        "styleHash": "-122e9bd5",
+        "styleMapHash": {
+          "normal": "#inline661336491",
+          "highlight": "#inline631511301"
+        },
+        "stroke": "#55ff00",
+        "stroke-opacity": 1,
+        "stroke-width": 3,
+        "fill-opacity": 0
+      },
+      "id": "0502A3FBA33170B30158"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8206208117598,
+            -6.190456367137243,
+            0
+          ],
+          [
+            106.8204954271898,
+            -6.190516844967595,
+            0
+          ],
+          [
+            106.820615204935,
+            -6.190725187596422,
+            0
+          ],
+          [
+            106.8208368737093,
+            -6.191045075420114,
+            0
+          ],
+          [
+            106.8207076928198,
+            -6.191200351055143,
+            0
+          ],
+          [
+            106.820941445784,
+            -6.191807805578333,
+            0
+          ],
+          [
+            106.820873436842,
+            -6.192286702358707,
+            0
+          ],
+          [
+            106.8208998267159,
+            -6.1920788626476,
+            0
+          ],
+          [
+            106.8208734817842,
+            -6.19228344099399,
+            0
+          ],
+          [
+            106.8208585815065,
+            -6.192471991381161,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "LM GEDUNG SURYA-PLAZA INDONESIA",
+        "styleUrl": "#inline9334630",
+        "styleHash": "-10cc9759",
+        "styleMapHash": {
+          "normal": "#inline661336891",
+          "highlight": "#inline631511511"
+        },
+        "stroke": "#55ff00",
+        "stroke-opacity": 1,
+        "stroke-width": 3,
+        "fill-opacity": 0
+      },
+      "id": "010D895E063170B4CC8D"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.82086533832,
+            -6.192475976324386,
+            0
+          ],
+          [
+            106.8211108446659,
+            -6.192528845287716,
+            0
+          ],
+          [
+            106.821582551984,
+            -6.192491807449138,
+            0
+          ],
+          [
+            106.8221821206824,
+            -6.192468817780241,
+            0
+          ],
+          [
+            106.8222023333002,
+            -6.192043802563104,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "LM GEDUNG SURYA-PLAZA INDONESIA",
+        "styleUrl": "#inline933463",
+        "styleHash": "-2c070fcb",
+        "styleMapHash": {
+          "normal": "#inline6613368910",
+          "highlight": "#inline6315115110"
+        },
+        "stroke": "#55ff00",
+        "stroke-opacity": 1,
+        "stroke-width": 3,
+        "fill-opacity": 0
+      },
+      "id": "08D9E41F8E3170B4A946"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8171443979694,
+            -6.17617908455526,
+            0
+          ],
+          [
+            106.8173196295113,
+            -6.176272421249706,
+            0
+          ],
+          [
+            106.817260879125,
+            -6.176902799335733,
+            0
+          ],
+          [
+            106.8156926279294,
+            -6.176853274408762,
+            0
+          ],
+          [
+            106.8157184788969,
+            -6.175509161745744,
+            0
+          ],
+          [
+            106.8132241038379,
+            -6.175406249172407,
+            0
+          ],
+          [
+            106.8117859665111,
+            -6.175727962497222,
+            0
+          ],
+          [
+            106.8119209660754,
+            -6.17616809872431,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "AERIAL",
+        "styleUrl": "#msn_ylw-pushpin327",
+        "styleHash": "-7e1d3920",
+        "styleMapHash": {
+          "normal": "#sn_ylw-pushpin019",
+          "highlight": "#sh_ylw-pushpin028"
+        },
+        "description": "813 arial, burial 175",
+        "stroke": "#55ff00",
+        "stroke-opacity": 1,
+        "stroke-width": 4
+      },
+      "id": "0073ABEA4D31574AB1B4"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.818135700828,
+            -6.193924040972607,
+            0
+          ],
+          [
+            106.8182193310274,
+            -6.194277535841754,
+            0
+          ],
+          [
+            106.8183359559489,
+            -6.194355010814068,
+            0
+          ],
+          [
+            106.8182699090005,
+            -6.19464159680227,
+            0
+          ],
+          [
+            106.8181848057717,
+            -6.1951336551256,
+            0
+          ],
+          [
+            106.8181735574193,
+            -6.195359724559918,
+            0
+          ],
+          [
+            106.8181849917502,
+            -6.195136859461757,
+            0
+          ],
+          [
+            106.8181735574193,
+            -6.195359724559918,
+            0
+          ],
+          [
+            106.818241524812,
+            -6.195393147232192,
+            0
+          ],
+          [
+            106.8186275733474,
+            -6.195529354483066,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "AERIAL",
+        "styleUrl": "#msn_ylw-pushpin3141",
+        "styleHash": "-5dd08641",
+        "styleMapHash": {
+          "normal": "#sn_ylw-pushpin4171",
+          "highlight": "#sh_ylw-pushpin21120"
+        },
+        "stroke": "#55ff00",
+        "stroke-opacity": 1,
+        "stroke-width": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8186275733474,
+            -6.195529354483066,
+            0
+          ],
+          [
+            106.818722232213,
+            -6.195078984408908,
+            0
+          ],
+          [
+            106.8184829362138,
+            -6.195020375052611,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "AERIAL",
+        "styleUrl": "#msn_ylw-pushpin3141",
+        "styleHash": "-5dd08641",
+        "styleMapHash": {
+          "normal": "#sn_ylw-pushpin4171",
+          "highlight": "#sh_ylw-pushpin21120"
+        },
+        "stroke": "#55ff00",
+        "stroke-opacity": 1,
+        "stroke-width": 4
+      },
+      "id": "0692082AC63170B65114"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8461229353563,
+            -6.211514666922533,
+            0
+          ],
+          [
+            106.8462133471274,
+            -6.211586157630874,
+            0
+          ],
+          [
+            106.845221978062,
+            -6.213076489453297,
+            0
+          ],
+          [
+            106.8451066309623,
+            -6.213095537562531,
+            0
+          ],
+          [
+            106.844858495126,
+            -6.21294504819077,
+            0
+          ],
+          [
+            106.8447829146451,
+            -6.212885785663674,
+            0
+          ],
+          [
+            106.8444240613717,
+            -6.212735814684748,
+            0
+          ],
+          [
+            106.8443771346569,
+            -6.212611851012658,
+            0
+          ],
+          [
+            106.8444727850981,
+            -6.212360775532703,
+            0
+          ],
+          [
+            106.8442970705618,
+            -6.212813172186959,
+            0
+          ],
+          [
+            106.843720822358,
+            -6.214244959410025,
+            0
+          ],
+          [
+            106.8435465487787,
+            -6.214664838224418,
+            0
+          ],
+          [
+            106.8433187972315,
+            -6.214649893827486,
+            0
+          ],
+          [
+            106.8430794606875,
+            -6.214550837329347,
+            0
+          ],
+          [
+            106.84298142856,
+            -6.214480783560042,
+            0
+          ],
+          [
+            106.8429047431368,
+            -6.214296506758518,
+            0
+          ],
+          [
+            106.8428707781496,
+            -6.214190992348517,
+            0
+          ],
+          [
+            106.8419141888608,
+            -6.214185023611064,
+            0
+          ],
+          [
+            106.8405714842975,
+            -6.214093877357492,
+            0
+          ],
+          [
+            106.8395692547952,
+            -6.213958558820061,
+            0
+          ],
+          [
+            106.8390488502031,
+            -6.213874723377257,
+            0
+          ],
+          [
+            106.8385929285847,
+            -6.213837583129315,
+            0
+          ],
+          [
+            106.8382160808906,
+            -6.213787629638032,
+            0
+          ],
+          [
+            106.8380596845748,
+            -6.213769663391796,
+            0
+          ],
+          [
+            106.8380250798423,
+            -6.213721495100649,
+            0
+          ],
+          [
+            106.8380162308535,
+            -6.213124422844585,
+            0
+          ],
+          [
+            106.8380036696828,
+            -6.212662369290832,
+            0
+          ],
+          [
+            106.8379827595233,
+            -6.21218998196126,
+            0
+          ],
+          [
+            106.8379377355734,
+            -6.211784815876362,
+            0
+          ],
+          [
+            106.8379294128917,
+            -6.211334465352862,
+            0
+          ],
+          [
+            106.8379169323106,
+            -6.211079810406068,
+            0
+          ],
+          [
+            106.8379374963399,
+            -6.211001894840573,
+            0
+          ],
+          [
+            106.8379811348777,
+            -6.21083231246654,
+            0
+          ],
+          [
+            106.8379987391641,
+            -6.21075490007348,
+            0
+          ],
+          [
+            106.8379887570734,
+            -6.210714542940384,
+            0
+          ],
+          [
+            106.8379474866118,
+            -6.210689013436316,
+            0
+          ],
+          [
+            106.8378312350767,
+            -6.210655978406436,
+            0
+          ],
+          [
+            106.8377348883513,
+            -6.210645185314164,
+            0
+          ],
+          [
+            106.8376085739748,
+            -6.210592042015706,
+            0
+          ],
+          [
+            106.8373868313007,
+            -6.210452585580813,
+            0
+          ],
+          [
+            106.8370527329046,
+            -6.210163037247923,
+            0
+          ],
+          [
+            106.8369981016679,
+            -6.210115745727626,
+            0
+          ],
+          [
+            106.8367388634539,
+            -6.209877502494849,
+            0
+          ],
+          [
+            106.8365348944576,
+            -6.209686772868345,
+            0
+          ],
+          [
+            106.8363495669124,
+            -6.209525938929843,
+            0
+          ],
+          [
+            106.83625045516,
+            -6.209468944905155,
+            0
+          ],
+          [
+            106.8361843889674,
+            -6.209508183870202,
+            0
+          ],
+          [
+            106.8357614463254,
+            -6.209960451849434,
+            0
+          ],
+          [
+            106.8350877492695,
+            -6.210738712210901,
+            0
+          ],
+          [
+            106.8348563967701,
+            -6.210969562668983,
+            0
+          ],
+          [
+            106.8347897922912,
+            -6.210962432419715,
+            0
+          ],
+          [
+            106.8343303609766,
+            -6.210581908681414,
+            0
+          ],
+          [
+            106.8340317089614,
+            -6.210280526379356,
+            0
+          ],
+          [
+            106.8337454692744,
+            -6.209971103698659,
+            0
+          ],
+          [
+            106.8334764538916,
+            -6.209695437076673,
+            0
+          ],
+          [
+            106.8333292322654,
+            -6.209716942080295,
+            0
+          ],
+          [
+            106.8329128573981,
+            -6.210086349527828,
+            0
+          ],
+          [
+            106.8325301186007,
+            -6.210448752154329,
+            0
+          ],
+          [
+            106.8322659962705,
+            -6.210610150780671,
+            0
+          ],
+          [
+            106.8320705886343,
+            -6.210730100152524,
+            0
+          ],
+          [
+            106.8316547300454,
+            -6.210742877919627,
+            0
+          ],
+          [
+            106.8311626683973,
+            -6.210736230553375,
+            0
+          ],
+          [
+            106.8310514810786,
+            -6.21074410780669,
+            0
+          ],
+          [
+            106.8310591200899,
+            -6.210907887800343,
+            0
+          ],
+          [
+            106.83087008701,
+            -6.2109156478653,
+            0
+          ],
+          [
+            106.8308674805015,
+            -6.209762176156604,
+            0
+          ],
+          [
+            106.8308729750324,
+            -6.210911975591161,
+            0
+          ],
+          [
+            106.8305783298184,
+            -6.210910828281648,
+            0
+          ],
+          [
+            106.8305574076005,
+            -6.210315361031601,
+            0
+          ],
+          [
+            106.8303340755073,
+            -6.208946118289633,
+            0
+          ],
+          [
+            106.8302276824289,
+            -6.208434964586138,
+            0
+          ],
+          [
+            106.8296261470884,
+            -6.207080699854806,
+            0
+          ],
+          [
+            106.8290408961537,
+            -6.206035207829766,
+            0
+          ],
+          [
+            106.8285665612139,
+            -6.205286394452054,
+            0
+          ],
+          [
+            106.8282421781527,
+            -6.204789087479585,
+            0
+          ],
+          [
+            106.8281373765876,
+            -6.204557830409081,
+            0
+          ],
+          [
+            106.8280756050045,
+            -6.204218460724965,
+            0
+          ],
+          [
+            106.8281038579423,
+            -6.204059902284244,
+            0
+          ],
+          [
+            106.8267022552589,
+            -6.203761128171232,
+            0
+          ],
+          [
+            106.8232106884359,
+            -6.203021309000459,
+            0
+          ],
+          [
+            106.8224917155001,
+            -6.202864674799061,
+            0
+          ],
+          [
+            106.8197340294033,
+            -6.202157096401412,
+            0
+          ],
+          [
+            106.8172117086789,
+            -6.201600551014923,
+            0
+          ],
+          [
+            106.815804690816,
+            -6.201276944504437,
+            0
+          ],
+          [
+            106.8152786393159,
+            -6.201203761025445,
+            0
+          ],
+          [
+            106.8151221409741,
+            -6.200376900867707,
+            0
+          ],
+          [
+            106.8147700509144,
+            -6.19948263490703,
+            0
+          ],
+          [
+            106.8143985481587,
+            -6.198593676550347,
+            0
+          ],
+          [
+            106.8143724473874,
+            -6.198311014600916,
+            0
+          ],
+          [
+            106.8143061016661,
+            -6.198056994877738,
+            0
+          ],
+          [
+            106.8142694120812,
+            -6.197787258530515,
+            0
+          ],
+          [
+            106.8142632119641,
+            -6.197043005545716,
+            0
+          ],
+          [
+            106.8143254999294,
+            -6.196123906241079,
+            0
+          ],
+          [
+            106.8143431261032,
+            -6.195344902454328,
+            0
+          ],
+          [
+            106.814398277261,
+            -6.194671736787045,
+            0
+          ],
+          [
+            106.8144424438377,
+            -6.193977961641337,
+            0
+          ],
+          [
+            106.8146093240407,
+            -6.193996663667406,
+            0
+          ],
+          [
+            106.8146504976577,
+            -6.193596222230066,
+            0
+          ],
+          [
+            106.8148848313584,
+            -6.193633929031152,
+            0
+          ],
+          [
+            106.8149585855559,
+            -6.193582753344526,
+            0
+          ],
+          [
+            106.8150649301699,
+            -6.193378540010209,
+            0
+          ],
+          [
+            106.8151172585011,
+            -6.193265090833195,
+            0
+          ],
+          [
+            106.81521225536,
+            -6.193278361718719,
+            0
+          ],
+          [
+            106.8153492609161,
+            -6.193358699198548,
+            0
+          ],
+          [
+            106.815518724833,
+            -6.193348548377131,
+            0
+          ],
+          [
+            106.815942000968,
+            -6.193521515611125,
+            0
+          ],
+          [
+            106.8165404479718,
+            -6.19369293964167,
+            0
+          ],
+          [
+            106.8171795148172,
+            -6.193785436136767,
+            0
+          ],
+          [
+            106.8181462111745,
+            -6.19392613182103,
+            0
+          ],
+          [
+            106.8187551032389,
+            -6.193984542358647,
+            0
+          ],
+          [
+            106.8194738625399,
+            -6.194128836843653,
+            0
+          ],
+          [
+            106.82001850726,
+            -6.194194991855137,
+            0
+          ],
+          [
+            106.8204860070482,
+            -6.194267970147203,
+            0
+          ],
+          [
+            106.8205735365152,
+            -6.194216084301189,
+            0
+          ],
+          [
+            106.8206879894,
+            -6.193445144748503,
+            0
+          ],
+          [
+            106.8208016348282,
+            -6.192862427120144,
+            0
+          ],
+          [
+            106.8208769729631,
+            -6.192282017491356,
+            0
+          ],
+          [
+            106.8209190136616,
+            -6.191880458098447,
+            0
+          ],
+          [
+            106.8209081873454,
+            -6.191714030966855,
+            0
+          ],
+          [
+            106.8208558733573,
+            -6.191572469644256,
+            0
+          ],
+          [
+            106.8207434703452,
+            -6.191365196177444,
+            0
+          ],
+          [
+            106.8206756919298,
+            -6.191269072446526,
+            0
+          ],
+          [
+            106.8207487245833,
+            -6.191214859379289,
+            0
+          ],
+          [
+            106.8208396903081,
+            -6.191135125959746,
+            0
+          ],
+          [
+            106.8208492226092,
+            -6.191037012404062,
+            0
+          ],
+          [
+            106.8208202923908,
+            -6.19094640616879,
+            0
+          ],
+          [
+            106.820679836107,
+            -6.190792511993304,
+            0
+          ],
+          [
+            106.8205851136736,
+            -6.190667697589636,
+            0
+          ],
+          [
+            106.8204955235637,
+            -6.190521062478958,
+            0
+          ],
+          [
+            106.8206307480312,
+            -6.190458490741779,
+            0
+          ],
+          [
+            106.8207783700104,
+            -6.190369112934691,
+            0
+          ],
+          [
+            106.8208914709514,
+            -6.190238674545112,
+            0
+          ],
+          [
+            106.8209967261926,
+            -6.190055366427338,
+            0
+          ],
+          [
+            106.8211821609091,
+            -6.189626015741159,
+            0
+          ],
+          [
+            106.8213198572899,
+            -6.189303951454445,
+            0
+          ],
+          [
+            106.8214162025566,
+            -6.189076472897882,
+            0
+          ],
+          [
+            106.8214964095807,
+            -6.188524722969876,
+            0
+          ],
+          [
+            106.8215893553623,
+            -6.187961989071696,
+            0
+          ],
+          [
+            106.8216030367399,
+            -6.1878852175472,
+            0
+          ],
+          [
+            106.8216249378784,
+            -6.18752551001537,
+            0
+          ],
+          [
+            106.8215765623616,
+            -6.1873406099953,
+            0
+          ],
+          [
+            106.8215820306135,
+            -6.187039549948641,
+            0
+          ],
+          [
+            106.8214305132613,
+            -6.187070767358655,
+            0
+          ],
+          [
+            106.8214244294445,
+            -6.186891559598095,
+            0
+          ],
+          [
+            106.8218018942986,
+            -6.186880464027192,
+            0
+          ],
+          [
+            106.8214256365466,
+            -6.185187023959768,
+            0
+          ],
+          [
+            106.8215121466685,
+            -6.185156073097451,
+            0
+          ],
+          [
+            106.821615992515,
+            -6.185128471591104,
+            0
+          ],
+          [
+            106.8216347414224,
+            -6.185053406381432,
+            0
+          ],
+          [
+            106.8215780154744,
+            -6.184359545609009,
+            0
+          ],
+          [
+            106.8211506048296,
+            -6.184338003998107,
+            0
+          ],
+          [
+            106.8207523473883,
+            -6.18427301476324,
+            0
+          ],
+          [
+            106.8203385212898,
+            -6.184170243311706,
+            0
+          ],
+          [
+            106.819891893308,
+            -6.184048541148385,
+            0
+          ],
+          [
+            106.8197250589782,
+            -6.183998814039135,
+            0
+          ],
+          [
+            106.819959183667,
+            -6.183179554467901,
+            0
+          ],
+          [
+            106.8175253610633,
+            -6.182499632133082,
+            0
+          ],
+          [
+            106.817467433329,
+            -6.18238867925903,
+            0
+          ],
+          [
+            106.8165441515958,
+            -6.182099574532585,
+            0
+          ],
+          [
+            106.816631544634,
+            -6.181964164178181,
+            0
+          ],
+          [
+            106.8165402855618,
+            -6.181889790800436,
+            0
+          ],
+          [
+            106.8166400967072,
+            -6.181698068303271,
+            0
+          ],
+          [
+            106.8167248165993,
+            -6.181700472882437,
+            0
+          ],
+          [
+            106.8168150873795,
+            -6.181676926573481,
+            0
+          ],
+          [
+            106.8170653521264,
+            -6.181317760021797,
+            0
+          ],
+          [
+            106.8179329184107,
+            -6.179817699980987,
+            0
+          ],
+          [
+            106.819677528586,
+            -6.176936738477298,
+            0
+          ],
+          [
+            106.8185953228636,
+            -6.176900140890315,
+            0
+          ],
+          [
+            106.8168663457978,
+            -6.176872250833335,
+            0
+          ],
+          [
+            106.8159088077067,
+            -6.176840816603577,
+            0
+          ],
+          [
+            106.8157411251975,
+            -6.176743585549369,
+            0
+          ],
+          [
+            106.8157952921731,
+            -6.17552317823685,
+            0
+          ],
+          [
+            106.8133870307452,
+            -6.175419259222462,
+            0
+          ],
+          [
+            106.811811220407,
+            -6.175743541305224,
+            0
+          ],
+          [
+            106.81195504128,
+            -6.176150020818154,
+            0
+          ],
+          [
+            106.8117967622197,
+            -6.175727488480816,
+            0
+          ],
+          [
+            106.8099841776355,
+            -6.17619153640095,
+            0
+          ],
+          [
+            106.8092325423306,
+            -6.173139565355113,
+            0
+          ],
+          [
+            106.8091590891456,
+            -6.172849304148384,
+            0
+          ],
+          [
+            106.8087315354821,
+            -6.172067149038898,
+            0
+          ],
+          [
+            106.8087389635972,
+            -6.171557645769948,
+            0
+          ],
+          [
+            106.8108091550393,
+            -6.17122501495461,
+            0
+          ],
+          [
+            106.8105823244374,
+            -6.168808257152331,
+            0
+          ],
+          [
+            106.8103949373514,
+            -6.167046612393504,
+            0
+          ],
+          [
+            106.8102950250837,
+            -6.16582631868982,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BB Existing FSI",
+        "styleUrl": "#__managed_style_0DF667C73833AB417568",
+        "styleHash": "-576d6f2f",
+        "styleMapHash": {
+          "normal": "#failed4",
+          "highlight": "#failed"
+        },
+        "stroke": "#0000ff",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      },
+      "id": "0AFA20BF8C33AB415FF0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8215390833494,
+            -6.185691098535231,
+            0
+          ],
+          [
+            106.8214598024752,
+            -6.185308866478191,
+            0
+          ],
+          [
+            106.8214295904462,
+            -6.185196810112705,
+            0
+          ],
+          [
+            106.8214236360112,
+            -6.18517817315472,
+            0
+          ],
+          [
+            106.8214538505691,
+            -6.185153844141631,
+            0
+          ],
+          [
+            106.8216068744894,
+            -6.185122892546266,
+            0
+          ],
+          [
+            106.821608867066,
+            -6.18489701274448,
+            0
+          ],
+          [
+            106.8215833003924,
+            -6.184517099762545,
+            0
+          ],
+          [
+            106.8215587272605,
+            -6.18437571719638,
+            0
+          ],
+          [
+            106.8210912857775,
+            -6.184361256744721,
+            0
+          ],
+          [
+            106.8207702468649,
+            -6.184307454169915,
+            0
+          ],
+          [
+            106.8203881188987,
+            -6.184209798122662,
+            0
+          ],
+          [
+            106.8200023943832,
+            -6.184112846915735,
+            0
+          ],
+          [
+            106.8197053767296,
+            -6.1840173615398,
+            0
+          ],
+          [
+            106.8199228063348,
+            -6.183145256969098,
+            0
+          ],
+          [
+            106.8209049631867,
+            -6.183407830751795,
+            0
+          ],
+          [
+            106.8176811740085,
+            -6.182509659216796,
+            0
+          ],
+          [
+            106.8169402210591,
+            -6.182314446064719,
+            0
+          ],
+          [
+            106.8166546961062,
+            -6.182243102796912,
+            0
+          ],
+          [
+            106.8161112806022,
+            -6.183287197164678,
+            0
+          ],
+          [
+            106.8165969505908,
+            -6.18357436790282,
+            0
+          ],
+          [
+            106.8166832406661,
+            -6.183409267264876,
+            0
+          ],
+          [
+            106.8165490199485,
+            -6.183353997263897,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Untitled path",
+        "styleUrl": "#__managed_style_0C3A17FC5F33AB4D4C79",
+        "styleHash": "-5221e430",
+        "styleMapHash": {
+          "normal": "#failed3",
+          "highlight": "#failed6"
+        },
+        "stroke": "#00ff00",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      },
+      "id": "06FE1F2F4433AB4D2283"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8092893655867,
+            -6.166780679083836,
+            0
+          ],
+          [
+            106.8092527589828,
+            -6.166590455645007,
+            0
+          ],
+          [
+            106.8096467876065,
+            -6.166562423132213,
+            0
+          ],
+          [
+            106.8097302536783,
+            -6.167108481186062,
+            0
+          ],
+          [
+            106.810397629438,
+            -6.167069735152527,
+            0
+          ],
+          [
+            106.8103036563824,
+            -6.165877755501968,
+            0
+          ],
+          [
+            106.8102849646167,
+            -6.165567767458732,
+            0
+          ],
+          [
+            106.8107060819817,
+            -6.165550988545748,
+            0
+          ],
+          [
+            106.8106874328631,
+            -6.164902678470877,
+            0
+          ],
+          [
+            106.8116022684455,
+            -6.164825628713869,
+            0
+          ],
+          [
+            106.812198527341,
+            -6.164781742155897,
+            0
+          ],
+          [
+            106.8122828128395,
+            -6.164646330304597,
+            0
+          ],
+          [
+            106.8122938722383,
+            -6.16450759494627,
+            0
+          ],
+          [
+            106.8126180149235,
+            -6.164427933558536,
+            0
+          ],
+          [
+            106.8129556293488,
+            -6.164332454585699,
+            0
+          ],
+          [
+            106.8131076370599,
+            -6.164315894899367,
+            0
+          ],
+          [
+            106.8131805801084,
+            -6.164601145133222,
+            0
+          ],
+          [
+            106.8139629561108,
+            -6.164458065931139,
+            0
+          ],
+          [
+            106.8144338012741,
+            -6.164466812887113,
+            0
+          ],
+          [
+            106.8149768042704,
+            -6.164418855634772,
+            0
+          ],
+          [
+            106.8151933266419,
+            -6.16438518114847,
+            0
+          ],
+          [
+            106.8168202714899,
+            -6.164050757669353,
+            0
+          ],
+          [
+            106.8177631139136,
+            -6.16384993799316,
+            0
+          ],
+          [
+            106.8184107615777,
+            -6.163690452867585,
+            0
+          ],
+          [
+            106.8189735232811,
+            -6.163575452474177,
+            0
+          ],
+          [
+            106.8194895017432,
+            -6.163500652592194,
+            0
+          ],
+          [
+            106.8196339945817,
+            -6.163482183791194,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Untitled path",
+        "styleUrl": "#__managed_style_0DF667C73833AB4175680",
+        "styleHash": "-752b0a2e",
+        "styleMapHash": {
+          "normal": "#failed5",
+          "highlight": "#failed0"
+        },
+        "stroke": "#ff0000",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      },
+      "id": "0EB62CE5DB33AB83415C"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8196317032647,
+            -6.16348078181311,
+            0
+          ],
+          [
+            106.819874154026,
+            -6.164497526455693,
+            0
+          ],
+          [
+            106.8203672802677,
+            -6.164437320417807,
+            0
+          ],
+          [
+            106.8202191497964,
+            -6.163755343019357,
+            0
+          ],
+          [
+            106.8201152823188,
+            -6.163385489981777,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BB Existing",
+        "styleUrl": "#__managed_style_0DF667C73833AB4175681",
+        "styleHash": "-30425931",
+        "styleMapHash": {
+          "normal": "#failed2",
+          "highlight": "#failed1"
+        },
+        "stroke": "#ff0000",
+        "stroke-opacity": 1,
+        "stroke-width": 3
+      },
+      "id": "05CD59133833AB8D7386"
+    }
+  ]
+}
